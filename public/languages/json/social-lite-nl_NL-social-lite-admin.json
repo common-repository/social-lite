@@ -1,0 +1,717 @@
+{
+    "translation-revision-date": "2024-07-03T07:53:35+00:00",
+    "generator": "WP-CLI/2.6.0",
+    "source": "admin.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "nl",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Generate style": ["Stijl genereren"],
+            "For best results, stay as precise as possible.": [
+                "Voor de beste resultaten, wees zo nauwkeurig mogelijk."
+            ],
+            "Description": ["Beschrijving"],
+            "e.g. summer-styled theme with blue buttons": ["bijv. zomerstijl thema met blauwe knoppen"],
+            "Accept style": ["Stijl accepteren"],
+            "Try again": ["Opnieuw"],
+            "Unleash your personal design co-pilot": ["Laat je persoonlijke ontwerp co-pilot los"],
+            "Upgrade to the Performance plan to unlock AI-generated styles.": [
+                "Upgrade naar het Performance-plan om AI-gemaakte stijlen te ontgrendelen."
+            ],
+            "Create beautiful styles in seconds": ["Maak prachtige stijlen in seconden"],
+            "Simply describe your desired style and let AI do the rest": [
+                "Beschrijf eenvoudig je gewenste stijl en laat de AI de rest doen"
+            ],
+            "Maybe later": ["Misschien later"],
+            "CTR": ["CTR"],
+            "Views": ["Weergaven"],
+            "Unique views": ["Unieke weergaven"],
+            "Clicks": ["Klikken"],
+            "Unique clicks": ["Unieke klikken"],
+            "Error: %(errorCode)s. If this issue persists, kindly {{a}}contact support{{/a}}.": [
+                "Fout: %(errorCode)s. Als dit probleem aanhoudt, neem dan {{a}}contact op met de support afdeling{{/a}}."
+            ],
+            "Unlock analytics and insights": ["Ontgrendel analyses en inzichten"],
+            "To see how your bio link is performing, access meaningful analytics and more, upgrade to the Pro plan.": [
+                "Om te zien hoe je link in bio presteert, toegang tot zinvolle analyses en meer, upgrade naar het Pro-plan."
+            ],
+            "Upgrade to Pro": ["Upgrade naar Pro"],
+            "Lifetime analytics": ["Levenslange analyses"],
+            "Activity": ["Activiteit"],
+            "Please note: this is example data.": ["Let op: dit zijn voorbeeldgegevens."],
+            "Days": ["Dagen"],
+            "Weeks": ["Weken"],
+            "Months": ["Maanden"],
+            "Top links": ["Top links"],
+            "No data yet.": ["Nog geen gegevens."],
+            "Please select a different time span or wait until data is collected.": [
+                "Selecteer een andere tijdperiode of wacht tot er gegevens zijn verzameld."
+            ],
+            "View more": ["Bekijk meer"],
+            "Top links include the 5 most clicked links in the selected time period.": [
+                "Top links bevatten de 5 meest aangeklikte links in de geselecteerde periode."
+            ],
+            "Top locations": ["Top locaties"],
+            "Location data may be affected by your visitors' privacy settings or VPN providers.": [
+                "Locatiegegevens kunnen worden beïnvloed door de privacy-instellingen of VPN-providers van je bezoekers."
+            ],
+            "Top referrers": ["Top verwijzers"],
+            "Direct visitors are visitors who come to your link in bio via the standalone URL.": [
+                "Directe bezoekers zijn bezoekers die via de zelfstandige URL naar je link in bio komen."
+            ],
+            "Top devices": ["Top apparaten"],
+            "The category \"others\" can include TVs, gaming consoles, smart watches or bots.": [
+                "De categorie \"overige\" kan tv's, spelconsoles, smartwatches of bots omvatten."
+            ],
+            "Add animation": ["Animatie toevoegen"],
+            "Animation": ["Animatie"],
+            "Prioritize this link by adding an animation.": [
+                "Geef prioriteit aan deze link door een animatie toe te voegen."
+            ],
+            "None": ["Geen"],
+            "Shake X": ["Schud X"],
+            "Shake Y": ["Schud Y"],
+            "Pulse": ["Puls"],
+            "Tada": ["Tada"],
+            "Flash": ["Flits"],
+            "Schedule": ["Schema"],
+            "Set a start and end date for displaying this link.": [
+                "Stel een start- en einddatum in voor het weergeven van deze link."
+            ],
+            "Start time": ["Starttijd"],
+            "Duplicate": ["Dupliceren"],
+            "Clear": ["Wissen"],
+            "End time": ["Eindtijd"],
+            "Direct visitors are visitors who come to your bio link via the standalone URL.": [
+                "Directe bezoekers zijn bezoekers die via de zelfstandige URL naar je link in bio komen."
+            ],
+            "Add thumbnail": ["Thumbnail toevoegen"],
+            "Replace": ["Vervangen"],
+            "Remove": ["Verwijderen"],
+            "Upload custom thumbnail": ["Aangepaste thumbnail uploaden"],
+            "Icons": ["Pictogrammen"],
+            "Choose from icon pack": ["Kies uit pictogrampakket"],
+            "Search and choose from icon pack": ["Zoek en kies uit pictogrampakket"],
+            "Search": ["Zoeken"],
+            "Delete": ["Verwijderen"],
+            "Do you really want to delete this?": ["Wil je dit echt verwijderen?"],
+            "Cancel": ["Annuleren"],
+            "Blog options": ["Blogopties"],
+            "Post count": ["Aantal berichten"],
+            "3 posts": ["3 berichten"],
+            "6 posts": ["6 berichten"],
+            "9 posts": ["9 berichten"],
+            "Thumbnails": ["Thumbnails"],
+            "Display each link with the featured image of the respective post.": [
+                "Geef elke link weer met de uitgelichte afbeelding van het betreffende bericht."
+            ],
+            "Visibility": ["Zichtbaarheid"],
+            "Expand this link automatically when a visitor arrives on your link in bio.": [
+                "Vouw deze link automatisch uit wanneer een bezoeker op je link in bio aankomt."
+            ],
+            "Calendly options": ["Calendly-opties"],
+            "Display type": ["Weergavetype"],
+            "Embed Calendly on bio link": ["Insluiten Calendly op de link in bio"],
+            "Link off to Calendly": ["Link naar Calendly"],
+            "Select a submission type": ["Selecteer een inzendingstype"],
+            "Send an email": ["Verstuur een e-mail"],
+            "Contact form options": ["Contactformulier opties"],
+            "Fields": ["Velden"],
+            "Ask your visitors for information. You can disable any field or mark it as required.": [
+                "Vraag je bezoekers om informatie. Je kunt elk veld uitschakelen of markeren als verplicht."
+            ],
+            "Advanced": ["Geavanceerd"],
+            "Mark as required": ["Markeren als verplicht"],
+            "Make it mandatory for the user to fill this field.": [
+                "Maak het verplicht voor de gebruiker om dit veld in te vullen."
+            ],
+            "Submissions": ["Inzendingen"],
+            "Select where to send the form submissions.": [
+                "Selecteer waar de formulieren naartoe moeten worden gestuurd."
+            ],
+            "Email address": ["E-mailadres"],
+            "Tell people why they should get in touch with you.": [
+                "Vertel mensen waarom ze contact met je moeten opnemen."
+            ],
+            "Thank you message": ["Bedankt bericht"],
+            "Customize the thank you message shown after a successful submission.": [
+                "Pas het bedankbericht aan dat wordt getoond na een succesvolle submit."
+            ],
+            "Enter a custom thank you message.": ["Voer een aangepast bedankbericht in."],
+            "Terms and conditions": ["Voorwaarden"],
+            "Link to your terms and conditions, privacy policy, or other legal documents.": [
+                "Link naar je voorwaarden, privacybeleid of andere juridische documenten."
+            ],
+            "Enter custom terms and conditions or other legal text.": [
+                "Voer aangepaste voorwaarden of andere juridische tekst in."
+            ],
+            "Link": ["Link"],
+            "Please provide a valid Twitch link.": ["Geef een geldige Twitch-link op."],
+            "Share your latest Twitch stream.": ["Deel je laatste Twitch-stream."],
+            "example.com/terms-and-conditions": ["voorbeeld.nl/voorwaarden"],
+            "Type": ["Type"],
+            "Personal": ["Persoonlijk"],
+            "Work": ["Werk"],
+            "Other": ["Anders"],
+            "Home": ["Thuis"],
+            "Contact info options": ["Contactinformatie opties"],
+            "Contact details": ["Contactgegevens"],
+            "Present your contact details to your visitors. Only the details you fill in will be shown.": [
+                "Presenteer je contactgegevens aan je bezoekers. Alleen de gegevens die je invult, worden getoond."
+            ],
+            "Name": ["Naam"],
+            "First name": ["Voornaam"],
+            "Last name": ["Achternaam"],
+            "Occupation": ["Beroep"],
+            "Organization": ["Organisatie"],
+            "Position": ["Functie"],
+            "Email": ["E-mail"],
+            "Address": ["Adres"],
+            "Phone": ["Telefoon"],
+            "Number": ["Nummer"],
+            "Street address": ["Straatnaam"],
+            "Apartment, suite, etc. (optional)": ["Appartement, suite, etc. (optioneel)"],
+            "City": ["Stad"],
+            "Country": ["Land"],
+            "Postal code": ["Postcode"],
+            "Opening hours": ["Openingstijden"],
+            "When are you open for business?": ["Wanneer ben je open?"],
+            "Please select a PDF file.": ["Selecteer een PDF-bestand."],
+            "Document options": ["Documentopties"],
+            "Document": ["Document"],
+            "Tell your visitors what the document is about.": ["Vertel je bezoekers waar het document over gaat."],
+            "Add a document": ["Document toevoegen"],
+            "Paypal address": ["Paypal-adres"],
+            "mail@example.com": ["mail@voorbeeld.nl"],
+            "Your PayPal address is the email you use for your PayPal account.": [
+                "Je PayPal-adres is het e-mailadres dat je gebruikt voor je PayPal-account."
+            ],
+            "Transaction fees may vary by location and account type. See  {{a}}this official PayPal article{{/a}} for more information.": [
+                "Transactiekosten kunnen variëren afhankelijk van locatie en type account. Zie {{a}}dit officiële PayPal-artikel{{/a}} voor meer informatie."
+            ],
+            "Donation options": ["Donatieopties"],
+            "Payment provider": ["Payment provider"],
+            "Edit": ["Bewerken"],
+            "Add a payment provider": ["Payment provider toevoegen"],
+            "Currency": ["Valuta"],
+            "Amounts": ["Bedragen"],
+            "Amount": ["Bedrag"],
+            "Add amount": ["Bedrag toevoegen"],
+            "Tell people why you are asking for a donation.": ["Vertel mensen waarom je om een donatie vraagt."],
+            "Custom amount": ["Aangepast bedrag"],
+            "Allow users to enter a custom amount when making a donation.": [
+                "Sta gebruikers toe om een aangepast bedrag in te voeren bij het doen van een donatie."
+            ],
+            "Payment providers": ["Payment providers"],
+            "Add %(provider)s": ["Voeg %(provider)s toe"],
+            "Edit %(provider)s settings": ["Bewerk %(provider)s instellingen"],
+            "Pick your preferred payment provider": ["Kies je voorkeur payment provider"],
+            "Fill out the fields below to setup %(provider)s.": [
+                "Vul de velden hieronder in om %(provider)s in te stellen."
+            ],
+            "Back": ["Terug"],
+            "Add provider": ["Provider toevoegen"],
+            "Save settings": ["Instellingen opslaan"],
+            "API key": ["API-sleutel"],
+            "Enter your ActiveCampaign API key": ["Voer je ActiveCampaign API-sleutel in"],
+            "You find your API key in your account settings. {{a}}Learn more{{/a}}.": [
+                "Je vindt je API-sleutel in je accountinstellingen. {{a}}Meer informatie{{/a}}."
+            ],
+            "Account name": ["Accountnaam"],
+            "Enter your ActiveCampaign account name": ["Voer je ActiveCampaign accountnaam in"],
+            "Mailchimp API key": ["Mailchimp API-sleutel"],
+            "Enter your Mailchimp API key": ["Voer je Mailchimp API-sleutel in"],
+            "Shortcode options": ["Shortcode-opties"],
+            "You can create API keys in your Mailchimp {{a}}account settings{{/a}}.": [
+                "Je kunt API-sleutels maken in je Mailchimp {{a}}accountinstellingen{{/a}}."
+            ],
+            "Email signup options": ["E-mail aanmeldopties"],
+            "Mail provider": ["Mailprovider"],
+            "Add a mail provider": ["Mailprovider toevoegen"],
+            "List": ["Lijst"],
+            "subscribers": ["abonnees"],
+            "subscriber": ["abonnee"],
+            "Tell people why they should subscribe to your newsletter.": [
+                "Vertel mensen waarom ze zich moeten abonneren op je nieuwsbrief."
+            ],
+            "Mail providers": ["Mailproviders"],
+            "Pick your preferred mail provider": ["Kies je voorkeur mailprovider"],
+            "Facebook options": ["Facebook-opties"],
+            "Embed video on bio link": ["Insluiten video op de link in bio"],
+            "Link off to Facebook": ["Link naar Facebook"],
+            "Mute": ["Dempen"],
+            "Mute this video by default.": ["Dempen deze video standaard."],
+            "Autoplay": ["Autoplay"],
+            "Automatically play the video when the link is expanded.": [
+                "Speel de video automatisch af wanneer de link is uitgebreid."
+            ],
+            "Pinterest options": ["Pinterest-opties"],
+            "Embed Pinterest on bio link": ["Insluiten Pinterest op de link in bio"],
+            "Link off to Pinterest": ["Link naar Pinterest"],
+            "Spotify options": ["Spotify-opties"],
+            "Embed Spotify on bio link": ["Insluiten Spotify op de link in bio"],
+            "Link off to Spotify": ["Link naar Spotify"],
+            "Spotlight options": ["Spotlight-opties"],
+            "Feed": ["Feed"],
+            "No feeds found. Please create a feed first.": ["Geen feeds gevonden. Maak eerst een feed."],
+            "TikTok options": ["TikTok-opties"],
+            "Embed TikTok on bio link": ["Insluiten TikTok op link in bio"],
+            "Link off to TikTok": ["Link naar TikTok"],
+            "WooCommerce options": ["WooCommerce-opties"],
+            "Products": ["Producten"],
+            "Please install and activate the WooCommerce plugin to select products.": [
+                "Installeer en activeer de WooCommerce-plug-in om producten te selecteren."
+            ],
+            "%s products": ["%s producten"],
+            "%s categories": ["%s categorieën"],
+            "Tell people about your shop and what you sell.": ["Vertel mensen over je winkel en wat je verkoopt."],
+            "Add products": ["Producten toevoegen"],
+            "Edit products": ["Producten bewerken"],
+            "Edit categories": ["Categorieën bewerken"],
+            "Select products": ["Producten selecteren"],
+            "Select categories": ["Categorieën selecteren"],
+            "Select single products or choose a category to include all products in that category.": [
+                "Selecteer enkele producten of kies een categorie om alle producten in die categorie op te nemen."
+            ],
+            "Search and choose products": ["Zoek en kies producten"],
+            "Search and choose categories": ["Zoek en kies categorieën"],
+            "Select single products": ["Selecteer enkele producten"],
+            "Select by category": ["Selecteer op categorie"],
+            "Free": ["Gratis"],
+            "%s items": ["%s items"],
+            "Update products": ["Producten bijwerken"],
+            "Update categories": ["Categorieën bijwerken"],
+            "Add categories": ["Categorieën toevoegen"],
+            "YouTube options": ["YouTube-opties"],
+            "Twitch options": ["Twitch-opties"],
+            "Link off to Twitch": ["Link naar Twitch"],
+            "Embed on bio link": ["Insluiten op de link in bio"],
+            "Link off to YouTube": ["Link naar YouTube"],
+            "Overview": ["Overzicht"],
+            "Users": ["Gebruikers"],
+            "Analytics": ["Analyse"],
+            "This link has been clicked %s times.": ["Deze link is %s keer aangeklikt."],
+            "Upgrade to Social Pro to see the performance of this link, access meaningful analytics, and more.": [
+                "Upgrade naar Social Pro om de prestaties van deze link te zien, toegang te krijgen tot zinvolle analyses en meer."
+            ],
+            "View activity": ["Bekijk activiteit"],
+            "Your biggest audience is in:": ["Je grootste publiek bevindt zich in:"],
+            "Most viewed on:": ["Meest bekeken op:"],
+            "Click activity": ["Klikactiviteit"],
+            "Date range:": ["Datumbereik:"],
+            "Last 7 days": ["Laatste 7 dagen"],
+            "Last 30 days": ["Laatste 30 dagen"],
+            "Last 60 days": ["Laatste 60 dagen"],
+            "Last 90 days": ["Laatste 90 dagen"],
+            "Last year": ["Laatste jaar"],
+            "Blog": ["Blog"],
+            "Thumbnail": ["Thumbnail"],
+            "Lifetime clicks": ["Levenslange klikken"],
+            "%s clicks": ["%s klikken"],
+            "Please provide a valid Calendly link.": ["Geef een geldige Calendly-link op."],
+            "Calendly": ["Calendly"],
+            "Please set up a response type.": ["Stel een antwoordtype in."],
+            "Contact form": ["Contactformulier"],
+            "Please enter at least one contact detail.": ["Voer ten minste één contactgegeven in."],
+            "Contact info": ["Contactinformatie"],
+            "Please add a document.": ["Voeg een document toe."],
+            "Please set up a payment provider.": ["Stel een payment provider in."],
+            "Donation": ["Donatie"],
+            "Please set up a mail provider and select a mailing list.": [
+                "Stel een mailprovider in en selecteer een mailinglijst."
+            ],
+            "Email signup": ["E-mail aanmelding"],
+            "Please provide a valid Facebook video link.": ["Geef een geldige Facebook-video link op."],
+            "Facebook": ["Facebook"],
+            "Please provide a valid link.": ["Geef een geldige link op."],
+            "Please provide a valid Pinterest link.": ["Geef een geldige Pinterest-link op."],
+            "Pinterest": ["Pinterest"],
+            "Please provide a valid Spotify link.": ["Geef een geldige Spotify-link op."],
+            "Spotify": ["Spotify"],
+            "Spotlight is not installed or activated.": ["Spotlight is niet geïnstalleerd of geactiveerd."],
+            "Please select at feed to display.": ["Selecteer een feed om weer te geven."],
+            "Spotlight": ["Spotlight"],
+            "Please provide a valid TikTok link.": ["Geef een geldige TikTok-link op."],
+            "TikTok": ["TikTok"],
+            "WooCommerce is not installed or activated.": ["WooCommerce is niet geïnstalleerd of geactiveerd."],
+            "Please select at least one product.": ["Selecteer ten minste één product."],
+            "WooCommerce": ["WooCommerce"],
+            "Please provide a valid YouTube video link.": ["Geef een geldige YouTube-videolink op."],
+            "YouTube": ["YouTube"],
+            "Embed a video from YouTube.": ["Insluiten een video van YouTube."],
+            "Showcase your latest blog posts.": ["Toon je laatste blogberichten."],
+            "Header": ["Koptekst"],
+            "Keep your content organized.": ["Houd je inhoud georganiseerd."],
+            "Collect donations from your followers.": ["Verzamel donaties van je volgers."],
+            "Share your contact information.": ["Deel je contactinformatie."],
+            "Let users sign up to your mailing list.": ["Laat gebruikers zich aanmelden voor je mailinglijst."],
+            "Let visitors get in touch with you.": ["Laat bezoekers contact met je opnemen."],
+            "Share a document with your followers.": ["Deel een document met je volgers."],
+            "Embed your Instagram feed.": ["Insluiten je Instagram-feed."],
+            "Link to your favorite album or playlist.": ["Link naar je favoriete album of afspeellijst."],
+            "Showcase pins, boards and more.": ["Toon pins, borden en meer."],
+            "Share a TikTok video or profile.": ["Deel een TikTok-video of -profiel."],
+            "Embed a WooCommerce storefront.": ["Insluiten een WooCommerce-winkel."],
+            "Schedule appointments via Calendly.": ["Plan afspraken via Calendly."],
+            "Add new link": ["Nieuwe link toevoegen"],
+            "Explore": ["Verkennen"],
+            "Share your content": ["Deel je inhoud"],
+            "Share and embed your content on your bio link.": ["Deel en insluiten je inhoud op je link in bio."],
+            "Add": ["Toevoegen"],
+            "Connect with your followers": ["Verbind met je volgers"],
+            "Everything you need to connect, manage and grow your audience.": [
+                "Alles wat je nodig hebt om je publiek te verbinden, beheren en laten groeien."
+            ],
+            "Monetize your bio link": ["Verdien aan je link in bio"],
+            "Easily earn and collect money from your followers.": [
+                "Verdien en verzamel gemakkelijk geld van je volgers."
+            ],
+            "Title": ["Titel"],
+            "No links yet": ["Nog geen links"],
+            "Click the button above to add your first link.": [
+                "Klik op de knop hierboven om je eerste link toe te voegen."
+            ],
+            "Meet the Social Editor": ["Maak kennis met de Social Editor"],
+            "Here you can personalize the content and design of your bio link, and gain insights into its performance. Let's take a quick tour to get you started.": [
+                "Hier kun je de inhoud en het ontwerp van je link in bio personaliseren en inzicht krijgen in de prestaties ervan. Laten we een korte rondleiding maken om je op weg te helpen."
+            ],
+            "Make it yours": ["Maak het van jou"],
+            "Easily add rich content to your bio link. Add basic links or embed videos, storefronts, forms, and more via the Explore button.": [
+                "Voeg eenvoudig rijke inhoud toe aan je link in bio. Voeg basislinks toe of insluiten video's, winkels, formulieren en meer via de Verkennen-knop."
+            ],
+            "See what's happening": ["Zie wat er gebeurt"],
+            "The preview enables you to view the updates made to your bio link page as you edit it, instantly.": [
+                "De voorvertoning stelt je in staat om de updates van je link in bio-pagina direct te bekijken terwijl je deze bewerkt."
+            ],
+            "Share with ease": ["Deel met gemak"],
+            "Effortlessly share your bio link page with your followers. Simply press the Share button and copy the link to your clipboard.": [
+                "Deel je link in bio-pagina moeiteloos met je volgers. Druk eenvoudig op de Deel-knop en kopieer de link naar je klembord."
+            ],
+            "Know where to go": ["Weet waar je heen moet"],
+            "Use the navigation bar to access different pages of the Social Editor.": [
+                "Gebruik de navigatiebalk om toegang te krijgen tot verschillende pagina's van de Social Editor."
+            ],
+            "Exit to the Home View": ["Verlaat naar de Home View"],
+            "Links": ["Links"],
+            "Add, edit and manage links": ["Links toevoegen, bewerken en beheren"],
+            "Settings": ["Instellingen"],
+            "Edit the settings of your bio link": ["Bewerk de instellingen van je link in bio"],
+            "View bio link performance insights": ["Bekijk inzichten in de prestaties van je link in bio"],
+            "Got it": ["Begrepen"],
+            "Upgrade": ["Upgrade"],
+            "%s link": ["%s link"],
+            "%s links": ["%s links"],
+            "Updated %s": ["Bijgewerkt %s"],
+            "Options": ["Opties"],
+            "Rename": ["Hernoemen"],
+            "Copied link to clipboard.": ["Link gekopieerd naar klembord."],
+            "Copy link": ["Kopieer link"],
+            "A single place for all your bio link pages": ["Een enkele plaats voor al je link in bio-pagina's"],
+            "Welcome to the Home View. Seamlessly create, edit, and delete your bio link pages, all at your fingertips.": [
+                "Welkom bij de Home View. Maak, bewerk en verwijder naadloos je link in bio-pagina's, allemaal binnen handbereik."
+            ],
+            "Create bio link pages": ["Maak link in bio-pagina's"],
+            "Choose from a curated selection of templates or begin from a blank canvas and effortlessly create new bio link pages.": [
+                "Kies uit een samengestelde selectie van templates of begin met een leeg canvas en creëer moeiteloos nieuwe link in bio-pagina's."
+            ],
+            "View recently edited pages": ["Bekijk recent bewerkte pagina's"],
+            "View all your recently edited bio link pages in one place and make any necessary edits with just a single click.": [
+                "Bekijk al je recent bewerkte link in bio-pagina's op één plek en voer eventuele noodzakelijke bewerkingen uit met slechts één klik."
+            ],
+            "Say Hello to the Template Library": ["Welkom bij de Template Library"],
+            "The Template Library is the starting point for every new bio link page. Simply choose from a curated selection of templates or begin with a blank canvas.": [
+                "De Template Library is het startpunt voor elke nieuwe link in bio-pagina. Kies eenvoudig uit een samengestelde selectie van templates of begin met een leeg canvas."
+            ],
+            "Filter templates": ["Filter templates"],
+            "Easily sort templates by category to discover the ideal templates for your needs.": [
+                "Sorteer templates eenvoudig op categorie om de ideale templates voor je behoeften te ontdekken."
+            ],
+            "Paid": ["Betaald"],
+            "Updated %(date)s": ["Bijgewerkt %(date)s"],
+            "Your name": ["Je naam"],
+            "Next": ["Volgende"],
+            "Main background": ["Hoof Achtergrond"],
+            "Header background": ["Koptekst Achtergrond"],
+            "Your bio description": ["Je bio beschrijving"],
+            "Use this template": ["Gebruik dit template"],
+            "Use %s": ["Gebruik %s"],
+            "Start from scratch or keep the default content?": ["Begin opnieuw of behoud de standaardinhoud?"],
+            "Start from scratch": ["Begin opnieuw"],
+            "Theme colors, fonts, and background": ["Thema kleuren, lettertypen en achtergrond"],
+            "Start with default content": ["Begin met standaardinhoud"],
+            "Profile picture, title, bio, and %s links": ["Profielfoto, titel, bio en %s links"],
+            "Next step": ["Volgende stap"],
+            "Pick a profile image": ["Kies een profielfoto"],
+            "Have a favorite selfie? Upload it now.": ["Heb je een favoriete selfie? Upload deze nu."],
+            "Skip for now": ["Sla over voor nu"],
+            "Add profile details": ["Profielgegevens toevoegen"],
+            "Tell people who your are and what you do.": ["Vertel mensen wie je bent en wat je doet."],
+            "Enter a title": ["Voer een titel in"],
+            "Bio": ["Bio"],
+            "Tell something about yourself": ["Vertel iets over jezelf"],
+            "Create bio link": ["Maak link in bio"],
+            "Choose a URL": ["Kies een URL"],
+            "Pick a URL for sharing your bio link.": ["Kies een URL om je link in bio te delen."],
+            "URL": ["URL"],
+            "Homepage": ["Startpagina"],
+            "Suggestions:": ["Suggesties:"],
+            "Set as homepage": ["Instellen als startpagina"],
+            "Select a style": ["Selecteer een stijl"],
+            "Pick a style or use AI to create one.": ["Kies een stijl of gebruik AI om er een te maken."],
+            "Create your own with AI": ["Maak je eigen met AI"],
+            "Select a layout": ["Selecteer een lay-out"],
+            "Pick a layout that fits your style.": ["Kies een lay-out die bij je stijl past."],
+            "Classic": ["Klassiek"],
+            "Hero": ["Held"],
+            "Pro": ["Pro"],
+            "Frame": ["Frame"],
+            "Your bio link is live": ["Je link in bio is live"],
+            "Use this link to access your bio link:": ["Gebruik deze link om toegang te krijgen tot je link in bio:"],
+            "Click the button below to start customizing.": ["Klik op de knop hieronder om te beginnen met aanpassen."],
+            "Continue to the editor": ["Ga verder naar de editor"],
+            "Get started with a blank canvas or choose a pre-made template.": [
+                "Begin met een leeg canvas of kies een vooraf gemaakt template."
+            ],
+            "Blank": ["Leeg"],
+            "Use template": ["Gebruik template"],
+            "All templates": ["Alle templates"],
+            "Recently edited": ["Recent bewerkt"],
+            "Rename page": ["Pagina hernoemen"],
+            "Update": ["Bijwerken"],
+            "Delete page": ["Pagina verwijderen"],
+            "This action cannot be undone.": ["Deze actie kan niet ongedaan worden gemaakt."],
+            "Profile": ["Profiel"],
+            "Footer": ["Footer"],
+            "SEO": ["SEO"],
+            "Layout": ["Lay-out"],
+            "Style": ["Stijl"],
+            "Jump to:": ["Spring naar:"],
+            "Upload a profile image, add a title and a bio.": [
+                "Upload een profielfoto, voeg een titel en een bio toe."
+            ],
+            "Avatar": ["Avatar"],
+            "Select image": ["Selecteer afbeelding"],
+            "Add your social channels to your bio link.": ["Voeg je sociale kanalen toe aan je link in bio."],
+            "Share your socials": ["Deel je socials"],
+            "Show visitors all the ways they can engage with you and your content.": [
+                "Toon bezoekers alle manieren waarop ze kunnen omgaan met jou en je inhoud."
+            ],
+            "Add icon": ["Pictogram toevoegen"],
+            "Social icons": ["Sociale pictogrammen"],
+            "Add %(icon)s icon": ["Voeg %(icon)s pictogram toe"],
+            "Edit %(icon)s icon": ["Bewerk %(icon)s pictogram"],
+            "Search and choose from social icons": ["Zoek en kies uit sociale pictogrammen"],
+            "example": ["voorbeeld"],
+            "Edit icon": ["Pictogram bewerken"],
+            "Add additional links, such as legal text, to the footer.": [
+                "Voeg extra links toe, zoals juridische tekst, aan de footer."
+            ],
+            "Add footer links": ["Footer links toevoegen"],
+            "Need extra space for linking legal text or similar? Add them here.": [
+                "Heb je extra ruimte nodig voor het linken van juridische tekst of iets dergelijks? Voeg ze hier toe."
+            ],
+            "Add link": ["Link toevoegen"],
+            "Edit link": ["Link bewerken"],
+            "Please provide a title and a URL for the link.": ["Geef een titel en een URL voor de link."],
+            "e.g. Privacy": ["bijv. Privacy"],
+            "example.com": ["voorbeeld.com"],
+            "Edit the URL of your bio link, adjust indexing by search engines, and more.": [
+                "Bewerk de URL van je link in bio, pas de indexering door zoekmachines aan en meer."
+            ],
+            "Set this bio link as your website's homepage.": [
+                "Stel deze link in bio in als de startpagina van je website."
+            ],
+            "Custom meta": ["Aangepaste meta"],
+            "Edit the meta tags of this bio link.": ["Bewerk de meta-tags van deze link in bio."],
+            "Prevent indexing": ["Voorkom indexering"],
+            "Ask search engines not to index this bio link.": [
+                "Vraag zoekmachines om deze link in bio niet te indexeren."
+            ],
+            "Edit meta": ["Meta bewerken"],
+            "Hide preview": ["Voorvertoning verbergen"],
+            "Show preview": ["Voorvertoning tonen"],
+            "Edit the meta title, description, and image of this bio link.": [
+                "Bewerk de meta-titel, beschrijving en afbeelding van deze link in bio."
+            ],
+            "Enter a meta title": ["Voer een meta-titel in"],
+            "Enter a meta description": ["Voer een meta-beschrijving in"],
+            "Image": ["Afbeelding"],
+            "Recommended size for this image is:": ["Aanbevolen grootte voor deze afbeelding is:"],
+            "Adjust the layout of your bio link.": ["Pas de lay-out van je link in bio aan."],
+            "Layout type": ["Lay-out type"],
+            "Styles": ["Stijlen"],
+            "Edit colors, backgrounds, fonts, buttons, and more.": [
+                "Bewerk kleuren, achtergronden, lettertypen, knoppen en meer."
+            ],
+            "Style type": ["Stijltype"],
+            "Custom": ["Aangepast"],
+            "Or AI-create": ["Of AI-creëren"],
+            "Backgrounds": ["Achtergronden"],
+            "Background type": ["Achtergrondtype"],
+            "Solid": ["Solid"],
+            "Gradient": ["Gradiënt"],
+            "Background color": ["Achtergrondkleur"],
+            "Color": ["Kleur"],
+            "Gradient direction": ["Gradiëntrichting"],
+            "To bottom": ["Naar beneden"],
+            "To top": ["Naar boven"],
+            "Gradient color one": ["Gradiënt kleur één"],
+            "Gradient color two": ["Gradiënt kleur twee"],
+            "Background image": ["Achtergrondafbeelding"],
+            "Upload custom background": ["Aangepaste achtergrond uploaden"],
+            "Buttons": ["Knoppen"],
+            "Outline": ["Omlijning"],
+            "3D": ["3D"],
+            "Shadow": ["Schaduw"],
+            "Paper": ["Papier"],
+            "Button color": ["Knopkleur"],
+            "Font color": ["Letterkleur"],
+            "Shadow color": ["Schaduwkleur"],
+            "Fonts": ["Lettertypen"],
+            "Modern": ["Modern"],
+            "Aa": ["Aa"],
+            "Individual": ["Individueel"],
+            "Badge": ["Badge"],
+            "Hide the Social badge": ["Verberg de Social-badge"],
+            "Let your brand shine by hiding the Social badge from your bio link.": [
+                "Laat je merk schitteren door de Social-badge van je link in bio te verbergen."
+            ],
+            "All": ["Alle"],
+            "Bio link templates for all purposes.": ["Link in bio-templates voor alle doeleinden."],
+            "Free templates": ["Gratis templates"],
+            "Free bio link templates.": ["Gratis link in bio-templates."],
+            "Fashion": ["Mode"],
+            "Bio link templates for fashion and beauty.": ["Link in bio-templates voor mode en beauty."],
+            "Marketing": ["Marketing"],
+            "Bio link templates for marketing and advertising.": ["Link in bio-templates voor marketing en reclame."],
+            "Influencers and Creators": ["Influencers en Makers"],
+            "Bio link templates for influencers and creators.": ["Link in bio-templates voor influencers en makers."],
+            "Small Business": ["Klein bedrijf"],
+            "Bio link templates for small businesses.": ["Link in bio-templates voor kleine bedrijven."],
+            "Sports": ["Sport"],
+            "Bio link templates for sports.": ["Link in bio-templates voor sport."],
+            "Music": ["Muziek"],
+            "Bio link templates for music.": ["Link in bio-templates voor muziek."],
+            "Health and Fitness": ["Gezondheid en fitness"],
+            "Bio link templates for health and fitness.": ["Link in bio-templates voor gezondheid en fitness."],
+            "Social and Digital Media": ["Sociale en Digitale Media"],
+            "Bio link templates for social and digital media.": [
+                "Link in bio-templates voor sociale en digitale media."
+            ],
+            "Art and Photography": ["Kunst en Fotografie"],
+            "Bio link templates for art and photography.": ["Link in bio-templates voor kunst en fotografie."],
+            "Share": ["Delen"],
+            "Share your bio link": ["Deel je Link in bio"],
+            "Grow your audience by sharing your links everywhere.": [
+                "Laat je publiek groeien door je links overal te delen."
+            ],
+            "Open in new tab": ["Open in nieuw tabblad"],
+            "Copied": ["Gekopieerd"],
+            "Copy": ["Kopiëren"],
+            "New bio link": ["Nieuwe link in bio"],
+            "Templates": ["Templates"],
+            "Join Social %s to unlock this feature and many amazing others.": [
+                "Word lid van Social %s om deze functie en vele andere geweldige functies te ontgrendelen."
+            ],
+            "Boost your brand recognition with custom designs": ["Verhoog je merkbekendheid met aangepaste ontwerpen"],
+            "Add dynamic content to your bio link page by unlocking all Explore button links": [
+                "Voeg dynamische inhoud toe aan je link in bio-pagina door alle Verkennen-knoplinks te ontgrendelen"
+            ],
+            "Add social icons and highlight links with animations": [
+                "Voeg sociale pictogrammen toe en markeer links met animaties"
+            ],
+            "Unlock exclusive paid templates, receive support, and more": [
+                "Ontgrendel exclusieve betaalde templates, ontvang ondersteuning en meer"
+            ],
+            "Analyze the performance of your links and bio link page": [
+                "Analyseer de prestaties van je links en link in bio-pagina"
+            ],
+            "Schedule your links to show or hide at a specific time": [
+                "Plan je links om op een specifieke tijd te tonen of te verbergen"
+            ],
+            "Set your bio link page as your site's homepage": [
+                "Stel je link in bio-pagina in als de startpagina van je site"
+            ],
+            "Receive priority support, add custom meta tags, and more": [
+                "Ontvang prioriteitsondersteuning, voeg aangepaste meta-tags toe en meer"
+            ],
+            "Upgrade to %s": ["Upgrade naar %s"],
+            "Your current plan does not support this feature. Upgrade to unlock it.": [
+                "Je huidige plan ondersteunt deze functie niet. Upgrade om deze te ontgrendelen."
+            ],
+            "Upgrade to unlock this feature": ["Upgrade om deze functie te ontgrendelen"],
+            "Upgrade now": ["Nu upgraden"],
+            "Help": ["Hulp"],
+            "Contact us": ["Neem contact op"],
+            "Help center": ["Helpcentrum"],
+            "Visit our homepage": ["Bezoek onze startpagina"],
+            "We use Social": ["We gebruiken Social"],
+            "No posts found.": ["Geen berichten gevonden."],
+            "Thank you for your message.": ["Bedankt voor je bericht."],
+            "Go back": ["Ga terug"],
+            "Submit": ["Verzenden"],
+            "An unexpected error occurred. Please try again.": [
+                "Er is een onverwachte fout opgetreden. Probeer het opnieuw."
+            ],
+            "Learn more": ["Meer informatie"],
+            "Save to contacts": ["Opslaan in contacten"],
+            "View": ["Bekijk"],
+            "Thank you for your donation.": ["Bedankt voor je donatie."],
+            "Continue": ["Doorgaan"],
+            "Please enter a valid amount to continue.": ["Voer een geldig bedrag in om door te gaan."],
+            "Thank you for subscribing.": ["Bedankt voor je inschrijving."],
+            "Subscribe": ["Abonneren"],
+            "Open in Pinterest": ["Open in Pinterest"],
+            "Open in Spotify": ["Open in Spotify"],
+            "View on Instagram": ["Bekijk op Instagram"],
+            "No feed found.": ["Geen feed gevonden."],
+            "Open in TikTok": ["Open in TikTok"],
+            "View shop": ["Bekijk winkel"],
+            "No products found.": ["Geen producten gevonden."],
+            "Insert additional custom elements.": ["Voeg extra aangepaste elementen toe."],
+            "Mobile": ["Mobiel"],
+            "Message": ["Bericht"],
+            "Please add a discount code.": ["Voeg een kortingscode toe."],
+            "Please add a button text.": ["Voeg een knoptekst toe."],
+            "Discount code": ["Kortingscode"],
+            "Add a discount code": ["Voeg een kortingscode toe"],
+            "Add a button text": ["Voeg een knoptekst toe"],
+            "Add shortcode": ["Shortcode toevoegen"],
+            "Discount code options": ["Kortingscode opties"],
+            "Copy code": ["Kopieer code"],
+            "Button text": ["Knoptekst"],
+            "Add a code": ["Code toevoegen"],
+            "Go to store": ["Ga naar winkel"],
+            "Add a description for your discount code": ["Voeg een beschrijving toe voor je kortingscode"],
+            "Copy the code and visit the store to claim your discount": [
+                "Kopieer de code en bezoek de winkel om je korting te claimen"
+            ],
+            "Display a discount code.": ["Toon een kortingscode."],
+            "Please set up a valid shortcode.": ["Stel een geldige shortcode in."],
+            "Edit shortcode": ["Shortcode bewerken"],
+            "Add Vimeo videos to your bio link.": ["Voeg Vimeo-video's toe aan je link in bio."],
+            "Please provide a valid Vimeo video link.": ["Geef een geldige Vimeo-videolink op."],
+            "Link off to Vimeo": ["Link naar Vimeo"],
+            "Minimize editor": ["Editor minimaliseren"],
+            "Maximize editor": ["Editor maximaliseren"],
+            "Pick a style that fits your bio link.": ["Kies een stijl die bij je link in bio past."],
+            "Add a button that links to a destination URL.": ["Voeg een knop toe die naar een bestemming URL linkt."],
+            "Preview": ["Voorbeeld"],
+            "Text options": ["Tekst opties"],
+            "Button": ["Knop"],
+            "Text": ["Tekst"],
+            "Button title": ["Knop titel"],
+            "Button URL": ["Knop URL"],
+            "Share text with your visitors.": ["Deel tekst met je bezoekers."],
+            "Add a text element to your bio link.": ["Voeg een tekst-element toe aan je link in bio."],
+            "Add a button to your text element.": ["Voeg een knop toe aan je tekst-element."],
+            "Add a button URL": ["Voeg een knop-URL toe"],
+            "Please provide a valid button link.": ["Geef een geldige knop-link op."],
+            "Please enter some text.": ["Voer een tekst in."]
+        }
+    }
+}

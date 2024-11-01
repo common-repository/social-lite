@@ -1,0 +1,46 @@
+{
+    "translation-revision-date": "2023-11-23T07:53:35+00:00",
+    "generator": "WP-CLI/2.6.0",
+    "source": "frontend.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "tr",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Email address": ["E-Posta"],
+            "Name": ["Ad"],
+            "Email": ["E-Posta"],
+            "Phone": ["Telefon"],
+            "Free": ["Ücretsiz"],
+            "Custom": ["Özel"],
+            "Copy code": ["Kodu kopyala"],
+            "Copied": ["Kopyalandı"],
+            "We use Social": ["Sosyal medya kullanıyoruz"],
+            "No posts found.": ["Hiç yazı bulunamadı."],
+            "Thank you for your message.": ["Mesajınız için teşekkür ederiz."],
+            "Go back": ["Geri git"],
+            "Submit": ["Gönder"],
+            "An unexpected error occurred. Please try again.": ["Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin."],
+            "Learn more": ["Daha fazla bilgi"],
+            "Save to contacts": ["Kişilere kaydet"],
+            "View": ["Görüntüle"],
+            "Thank you for your donation.": ["Bağışınız için teşekkür ederiz."],
+            "Continue": ["Devam et"],
+            "Please enter a valid amount to continue.": ["Devam etmek için geçerli bir miktar girin."],
+            "Thank you for subscribing.": ["Abone olduğunuz için teşekkür ederiz."],
+            "Subscribe": ["Abone Ol"],
+            "Open in Pinterest": ["Pinterest'ta aç"],
+            "Open in Spotify": ["Spotify'da aç"],
+            "View on Instagram": ["Instagram'da görüntüle"],
+            "No feed found.": ["Hiç içerik bulunamadı."],
+            "Open in TikTok": ["TikTok'ta aç"],
+            "View shop": ["Mağazayı görüntüle"],
+            "No products found.": ["Hiç ürün bulunamadı."],
+            "Mobile": ["Mobil"],
+            "Message": ["Mesaj"]
+        }
+    }
+}

@@ -1,0 +1,2709 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: n/a\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+
+#: admin.js:447
+#: admin.js:480
+msgid "Generate style"
+msgstr ""
+
+#: admin.js:449
+msgid "For best results, stay as precise as possible."
+msgstr ""
+
+#: admin.js:457
+#: admin.js:2799
+#: admin.js:3416
+#: admin.js:3588
+#: admin.js:4051
+#: admin.js:4655
+#: admin.js:6450
+#: admin.js:16245
+msgid "Description"
+msgstr ""
+
+#: admin.js:466
+msgid "e.g. summer-styled theme with blue buttons"
+msgstr ""
+
+#: admin.js:476
+msgid "Accept style"
+msgstr ""
+
+#: admin.js:480
+msgid "Try again"
+msgstr ""
+
+#: admin.js:519
+msgid "Unleash your personal design co-pilot"
+msgstr ""
+
+#: admin.js:521
+msgid "Upgrade to the Performance plan to unlock AI-generated styles."
+msgstr ""
+
+#: admin.js:527
+msgid "Create beautiful styles in seconds"
+msgstr ""
+
+#: admin.js:533
+msgid "Simply describe your desired style and let AI do the rest"
+msgstr ""
+
+#: admin.js:538
+msgid "Upgrade to Performance"
+msgstr ""
+
+#: admin.js:543
+#: admin.js:18294
+msgid "Maybe later"
+msgstr ""
+
+#: admin.js:860
+#: admin.js:1147
+msgid "CTR"
+msgstr ""
+
+#: admin.js:883
+#: admin.js:1114
+#: admin.js:1215
+#: admin.js:1412
+#: admin.js:1459
+#: admin.js:1558
+msgid "Views"
+msgstr ""
+
+#: admin.js:891
+msgid "Unique views"
+msgstr ""
+
+#: admin.js:899
+#: admin.js:1130
+#: admin.js:1226
+#: admin.js:1371
+#: admin.js:1419
+#: admin.js:1466
+#: admin.js:1565
+#: admin.js:7168
+#: admin.js:7489
+msgid "Clicks"
+msgstr ""
+
+#: admin.js:907
+#: admin.js:7176
+#: admin.js:7498
+msgid "Unique clicks"
+msgstr ""
+
+#: admin.js:1046
+#: admin.js:12591
+#: admin.js:13426
+#: admin.js:13499
+msgid "Error: %(errorCode)s. If this issue persists, kindly {{a}}contact support{{/a}}."
+msgstr ""
+
+#: admin.js:1094
+#: admin.js:7333
+msgid "Unlock analytics and insights"
+msgstr ""
+
+#: admin.js:1094
+msgid "To see how your bio link is performing, access meaningful analytics and more, upgrade to the Pro plan."
+msgstr ""
+
+#: admin.js:1099
+#: admin.js:7343
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin.js:1103
+msgid "Lifetime analytics"
+msgstr ""
+
+#: admin.js:1177
+#: admin.js:7026
+msgid "Activity"
+msgstr ""
+
+#: admin.js:1179
+#: admin.js:1362
+#: admin.js:1389
+#: admin.js:1436
+#: admin.js:1535
+msgid "Please note: this is example data."
+msgstr ""
+
+#: admin.js:1246
+#: admin.js:7390
+msgid "Days"
+msgstr ""
+
+#: admin.js:1253
+#: admin.js:7397
+msgid "Weeks"
+msgstr ""
+
+#: admin.js:1260
+#: admin.js:7404
+msgid "Months"
+msgstr ""
+
+#: admin.js:1360
+msgid "Top links"
+msgstr ""
+
+#: admin.js:1379
+#: admin.js:1426
+#: admin.js:1525
+#: admin.js:1622
+#: admin.js:7499
+#: admin.js:7571
+msgid "No data yet."
+msgstr ""
+
+#: admin.js:1380
+#: admin.js:1427
+#: admin.js:1526
+#: admin.js:1623
+#: admin.js:7500
+#: admin.js:7572
+msgid "Please select a different time span or wait until data is collected."
+msgstr ""
+
+#: admin.js:1383
+msgid "Top links include the 5 most clicked links in the selected time period."
+msgstr ""
+
+#: admin.js:1387
+#: admin.js:7544
+msgid "Top locations"
+msgstr ""
+
+#: admin.js:1430
+msgid "Location data may be affected by your visitors' privacy settings or VPN providers."
+msgstr ""
+
+#: admin.js:1434
+msgid "Top referrers"
+msgstr ""
+
+#: admin.js:1529
+msgid "Direct visitors are visitors who come to your bio link via the standalone URL."
+msgstr ""
+
+#: admin.js:1533
+#: admin.js:7559
+msgid "Top devices"
+msgstr ""
+
+#: admin.js:1626
+msgid "The category \"others\" can include TVs, gaming consoles, smart watches or bots."
+msgstr ""
+
+#: admin.js:1701
+msgid "Add animation"
+msgstr ""
+
+#: admin.js:1713
+#: admin.js:7695
+#: admin.js:7887
+#: admin.js:8038
+#: admin.js:8192
+#: admin.js:8368
+#: admin.js:8519
+#: admin.js:8670
+#: admin.js:8829
+#: admin.js:9013
+#: admin.js:9304
+#: admin.js:9495
+#: admin.js:9654
+#: admin.js:9846
+#: admin.js:10010
+#: admin.js:10183
+#: admin.js:10389
+#: admin.js:10584
+#: admin.js:10800
+#: admin.js:10954
+#: admin.js:11146
+msgid "Animation"
+msgstr ""
+
+#: admin.js:1713
+msgid "Prioritize this link by adding an animation."
+msgstr ""
+
+#: admin.js:1723
+msgid "None"
+msgstr ""
+
+#: admin.js:1734
+msgid "Shake X"
+msgstr ""
+
+#: admin.js:1747
+msgid "Shake Y"
+msgstr ""
+
+#: admin.js:1758
+msgid "Pulse"
+msgstr ""
+
+#: admin.js:1769
+msgid "Tada"
+msgstr ""
+
+#: admin.js:1780
+msgid "Flash"
+msgstr ""
+
+#: admin.js:1852
+#: admin.js:1865
+#: admin.js:7712
+#: admin.js:7904
+#: admin.js:8055
+#: admin.js:8209
+#: admin.js:8385
+#: admin.js:8536
+#: admin.js:8687
+#: admin.js:8846
+#: admin.js:9030
+#: admin.js:9321
+#: admin.js:9512
+#: admin.js:9671
+#: admin.js:9863
+#: admin.js:10027
+#: admin.js:10200
+#: admin.js:10406
+#: admin.js:10601
+#: admin.js:10817
+#: admin.js:10971
+#: admin.js:11163
+msgid "Schedule"
+msgstr ""
+
+#: admin.js:1865
+msgid "Set a start and end date for displaying this link."
+msgstr ""
+
+#: admin.js:1869
+msgid "Start time"
+msgstr ""
+
+#: admin.js:1874
+#: admin.js:1892
+msgid "Clear"
+msgstr ""
+
+#: admin.js:1887
+msgid "End time"
+msgstr ""
+
+#: admin.js:2027
+msgid "Add thumbnail"
+msgstr ""
+
+#: admin.js:2050
+#: admin.js:16866
+msgid "Replace"
+msgstr ""
+
+#: admin.js:2055
+#: admin.js:4246
+#: admin.js:4984
+#: admin.js:6441
+#: admin.js:15490
+#: admin.js:16277
+#: admin.js:16878
+msgid "Remove"
+msgstr ""
+
+#: admin.js:2066
+msgid "Upload custom thumbnail"
+msgstr ""
+
+#: admin.js:2084
+#: admin.js:2129
+#: admin.js:15078
+#: admin.js:15530
+#: admin.js:15534
+msgid "Icons"
+msgstr ""
+
+#: admin.js:2085
+msgid "Choose from icon pack"
+msgstr ""
+
+#: admin.js:2144
+msgid "Search and choose from icon pack"
+msgstr ""
+
+#: admin.js:2159
+#: admin.js:6570
+#: admin.js:15691
+msgid "Search"
+msgstr ""
+
+#: admin.js:2213
+#: admin.js:2234
+#: admin.js:3575
+#: admin.js:4036
+#: admin.js:12318
+#: admin.js:12995
+#: admin.js:14808
+#: admin.js:15783
+#: admin.js:15996
+msgid "Delete"
+msgstr ""
+
+#: admin.js:2222
+msgid "Do you really want to delete this?"
+msgstr ""
+
+#: admin.js:2229
+#: admin.js:14802
+msgid "Cancel"
+msgstr ""
+
+#: admin.js:2301
+msgid "Blog options"
+msgstr ""
+
+#: admin.js:2311
+msgid "Post count"
+msgstr ""
+
+#: admin.js:2321
+msgid "3 posts"
+msgstr ""
+
+#: admin.js:2332
+msgid "6 posts"
+msgstr ""
+
+#: admin.js:2343
+msgid "9 posts"
+msgstr ""
+
+#: admin.js:2350
+msgid "Thumbnails"
+msgstr ""
+
+#: admin.js:2358
+msgid "Display each link with the featured image of the respective post."
+msgstr ""
+
+#: admin.js:2371
+#: admin.js:2481
+#: admin.js:2891
+#: admin.js:3308
+#: admin.js:3442
+#: admin.js:3602
+#: admin.js:4086
+#: admin.js:4777
+#: admin.js:5133
+#: admin.js:5243
+#: admin.js:5337
+#: admin.js:5447
+#: admin.js:5632
+#: admin.js:5772
+#: admin.js:5882
+#: admin.js:6050
+#: admin.js:6218
+#: admin.js:6464
+#: admin.js:6875
+msgid "Visibility"
+msgstr ""
+
+#: admin.js:2379
+#: admin.js:2489
+#: admin.js:2899
+#: admin.js:3316
+#: admin.js:3450
+#: admin.js:3610
+#: admin.js:4094
+#: admin.js:4785
+#: admin.js:5141
+#: admin.js:5251
+#: admin.js:5345
+#: admin.js:5455
+#: admin.js:5640
+#: admin.js:5780
+#: admin.js:5890
+#: admin.js:6058
+#: admin.js:6226
+#: admin.js:6472
+#: admin.js:6883
+msgid "Expand this link automatically when a visitor arrives on your bio link."
+msgstr ""
+
+#: admin.js:2443
+msgid "Calendly options"
+msgstr ""
+
+#: admin.js:2453
+#: admin.js:5063
+#: admin.js:5215
+#: admin.js:5419
+#: admin.js:5854
+#: admin.js:5980
+#: admin.js:6148
+#: admin.js:6805
+msgid "Display type"
+msgstr ""
+
+#: admin.js:2463
+msgid "Embed Calendly on bio link"
+msgstr ""
+
+#: admin.js:2474
+msgid "Link off to Calendly"
+msgstr ""
+
+#: admin.js:2551
+msgid "Select a submission type"
+msgstr ""
+
+#: admin.js:2554
+msgid "Send an email"
+msgstr ""
+
+#: admin.js:2682
+msgid "Contact form options"
+msgstr ""
+
+#: admin.js:2692
+msgid "Fields"
+msgstr ""
+
+#: admin.js:2694
+msgid "Ask your visitors for information. You can disable any field or mark it as required."
+msgstr ""
+
+#: admin.js:2708
+#: admin.js:16045
+msgid "Advanced"
+msgstr ""
+
+#: admin.js:2728
+msgid "Mark as required"
+msgstr ""
+
+#: admin.js:2731
+msgid "Make it mandatory for the user to fill this field."
+msgstr ""
+
+#: admin.js:2756
+msgid "Submissions"
+msgstr ""
+
+#: admin.js:2758
+msgid "Select where to send the form submissions."
+msgstr ""
+
+#: admin.js:2794
+#: admin.js:20038
+#: frontend.js:1605
+msgid "Email address"
+msgstr ""
+
+#: admin.js:2806
+msgid "Tell people why they should get in touch with you."
+msgstr ""
+
+#: admin.js:2813
+#: admin.js:4669
+msgid "Thank you message"
+msgstr ""
+
+#: admin.js:2821
+#: admin.js:4677
+msgid "Customize the thank you message shown after a successful submission."
+msgstr ""
+
+#: admin.js:2839
+#: admin.js:4707
+msgid "Enter a custom thank you message."
+msgstr ""
+
+#: admin.js:2846
+#: admin.js:4714
+msgid "Terms and conditions"
+msgstr ""
+
+#: admin.js:2854
+#: admin.js:4722
+msgid "Link to your terms and conditions, privacy policy, or other legal documents."
+msgstr ""
+
+#: admin.js:2872
+#: admin.js:4752
+msgid "Enter custom terms and conditions or other legal text."
+msgstr ""
+
+#: admin.js:2880
+#: admin.js:4760
+#: admin.js:7836
+#: admin.js:8317
+#: admin.js:8962
+#: admin.js:9270
+#: admin.js:9442
+#: admin.js:9792
+#: admin.js:10321
+#: admin.js:10525
+#: admin.js:10724
+#: admin.js:11095
+msgid "Link"
+msgstr ""
+
+#: admin.js:2883
+#: admin.js:4763
+msgid "example.com/terms-and-conditions"
+msgstr ""
+
+#: admin.js:2994
+#: admin.js:3007
+msgid "Type"
+msgstr ""
+
+#: admin.js:2997
+#: admin.js:3010
+msgid "Personal"
+msgstr ""
+
+#: admin.js:3000
+#: admin.js:3013
+msgid "Work"
+msgstr ""
+
+#: admin.js:3003
+#: admin.js:3019
+msgid "Other"
+msgstr ""
+
+#: admin.js:3016
+#: admin.js:17956
+msgid "Home"
+msgstr ""
+
+#: admin.js:3043
+msgid "Contact info options"
+msgstr ""
+
+#: admin.js:3053
+msgid "Contact details"
+msgstr ""
+
+#: admin.js:3055
+msgid "Present your contact details to your visitors. Only the details you fill in will be shown."
+msgstr ""
+
+#: admin.js:3058
+#: admin.js:21396
+#: admin.js:21397
+#: frontend.js:2963
+#: frontend.js:2964
+msgid "Name"
+msgstr ""
+
+#: admin.js:3069
+msgid "First name"
+msgstr ""
+
+#: admin.js:3080
+msgid "Last name"
+msgstr ""
+
+#: admin.js:3085
+msgid "Occupation"
+msgstr ""
+
+#: admin.js:3096
+msgid "Organization"
+msgstr ""
+
+#: admin.js:3107
+msgid "Position"
+msgstr ""
+
+#: admin.js:3112
+#: admin.js:21401
+#: admin.js:21402
+#: frontend.js:2968
+#: frontend.js:2969
+msgid "Email"
+msgstr ""
+
+#: admin.js:3131
+#: admin.js:3152
+#: admin.js:3202
+msgid "Address"
+msgstr ""
+
+#: admin.js:3157
+#: admin.js:21407
+#: frontend.js:2974
+msgid "Phone"
+msgstr ""
+
+#: admin.js:3176
+#: admin.js:3197
+msgid "Number"
+msgstr ""
+
+#: admin.js:3211
+msgid "Street address"
+msgstr ""
+
+#: admin.js:3222
+msgid "Apartment, suite, etc. (optional)"
+msgstr ""
+
+#: admin.js:3233
+msgid "City"
+msgstr ""
+
+#: admin.js:3248
+msgid "Country"
+msgstr ""
+
+#: admin.js:3287
+msgid "Postal code"
+msgstr ""
+
+#: admin.js:3292
+msgid "Opening hours"
+msgstr ""
+
+#: admin.js:3301
+msgid "When are you open for business?"
+msgstr ""
+
+#: admin.js:3393
+msgid "Discount code options"
+msgstr ""
+
+#: admin.js:3404
+msgid "Code"
+msgstr ""
+
+#: admin.js:3411
+msgid "Add a code"
+msgstr ""
+
+#: admin.js:3423
+msgid "Add a description for your discount code"
+msgstr ""
+
+#: admin.js:3431
+msgid "Button text"
+msgstr ""
+
+#: admin.js:3438
+msgid "Add a button text"
+msgstr ""
+
+#: admin.js:3538
+msgid "Please select a PDF file."
+msgstr ""
+
+#: admin.js:3546
+msgid "Document options"
+msgstr ""
+
+#: admin.js:3556
+#: admin.js:8472
+#: admin.js:11734
+msgid "Document"
+msgstr ""
+
+#: admin.js:3595
+msgid "Tell your visitors what the document is about."
+msgstr ""
+
+#: admin.js:3630
+msgid "Add a document"
+msgstr ""
+
+#: admin.js:3702
+msgid "Paypal address"
+msgstr ""
+
+#: admin.js:3703
+msgid "mail@example.com"
+msgstr ""
+
+#: admin.js:3704
+msgid "Your PayPal address is the email you use for your PayPal account."
+msgstr ""
+
+#: admin.js:3705
+msgid "Transaction fees may vary by location and account type. See  {{a}}this official PayPal article{{/a}} for more information."
+msgstr ""
+
+#: admin.js:3906
+msgid "Donation options"
+msgstr ""
+
+#: admin.js:3916
+msgid "Payment provider"
+msgstr ""
+
+#: admin.js:3933
+#: admin.js:4562
+#: admin.js:6418
+#: admin.js:12932
+#: admin.js:15571
+#: admin.js:15830
+msgid "Edit"
+msgstr ""
+
+#: admin.js:3962
+msgid "Add a payment provider"
+msgstr ""
+
+#: admin.js:3966
+msgid "Currency"
+msgstr ""
+
+#: admin.js:4009
+msgid "Amounts"
+msgstr ""
+
+#: admin.js:4024
+msgid "Amount"
+msgstr ""
+
+#: admin.js:4048
+msgid "Add amount"
+msgstr ""
+
+#: admin.js:4058
+msgid "Tell people why you are asking for a donation."
+msgstr ""
+
+#: admin.js:4065
+msgid "Custom amount"
+msgstr ""
+
+#: admin.js:4073
+msgid "Allow users to enter a custom amount when making a donation."
+msgstr ""
+
+#: admin.js:4146
+msgid "Payment providers"
+msgstr ""
+
+#: admin.js:4146
+#: admin.js:4837
+msgid "Add %(provider)s"
+msgstr ""
+
+#: admin.js:4148
+#: admin.js:4839
+msgid "Edit %(provider)s settings"
+msgstr ""
+
+#: admin.js:4165
+msgid "Pick your preferred payment provider"
+msgstr ""
+
+#: admin.js:4165
+#: admin.js:4856
+msgid "Fill out the fields below to setup %(provider)s."
+msgstr ""
+
+#: admin.js:4237
+#: admin.js:4959
+#: admin.js:6714
+#: admin.js:12716
+#: admin.js:13521
+#: admin.js:15774
+msgid "Back"
+msgstr ""
+
+#: admin.js:4240
+#: admin.js:4962
+msgid "Add provider"
+msgstr ""
+
+#: admin.js:4240
+#: admin.js:4962
+msgid "Save settings"
+msgstr ""
+
+#: admin.js:4315
+msgid "Mailchimp API key"
+msgstr ""
+
+#: admin.js:4316
+msgid "Enter your Mailchimp API key"
+msgstr ""
+
+#: admin.js:4317
+msgid "You can create API keys in your Mailchimp {{a}}account settings{{/a}}."
+msgstr ""
+
+#: admin.js:4330
+msgid "API key"
+msgstr ""
+
+#: admin.js:4331
+msgid "Enter your ActiveCampaign API key"
+msgstr ""
+
+#: admin.js:4332
+msgid "You find your API key in your account settings. {{a}}Learn more{{/a}}."
+msgstr ""
+
+#: admin.js:4341
+msgid "Account name"
+msgstr ""
+
+#: admin.js:4342
+msgid "Enter your ActiveCampaign account name"
+msgstr ""
+
+#: admin.js:4535
+msgid "Email signup options"
+msgstr ""
+
+#: admin.js:4545
+msgid "Mail provider"
+msgstr ""
+
+#: admin.js:4594
+msgid "Add a mail provider"
+msgstr ""
+
+#: admin.js:4598
+msgid "List"
+msgstr ""
+
+#: admin.js:4652
+msgid "subscribers"
+msgstr ""
+
+#: admin.js:4652
+msgid "subscriber"
+msgstr ""
+
+#: admin.js:4662
+msgid "Tell people why they should subscribe to your newsletter."
+msgstr ""
+
+#: admin.js:4837
+msgid "Mail providers"
+msgstr ""
+
+#: admin.js:4856
+msgid "Pick your preferred mail provider"
+msgstr ""
+
+#: admin.js:5053
+msgid "Facebook options"
+msgstr ""
+
+#: admin.js:5073
+#: admin.js:6158
+#: admin.js:6815
+msgid "Embed video on bio link"
+msgstr ""
+
+#: admin.js:5084
+msgid "Link off to Facebook"
+msgstr ""
+
+#: admin.js:5091
+#: admin.js:6008
+#: admin.js:6176
+#: admin.js:6833
+msgid "Mute"
+msgstr ""
+
+#: admin.js:5099
+#: admin.js:6016
+#: admin.js:6184
+#: admin.js:6841
+msgid "Mute this video by default."
+msgstr ""
+
+#: admin.js:5112
+#: admin.js:6029
+#: admin.js:6197
+#: admin.js:6854
+msgid "Autoplay"
+msgstr ""
+
+#: admin.js:5120
+#: admin.js:6037
+#: admin.js:6205
+#: admin.js:6862
+msgid "Automatically play the video when the link is expanded."
+msgstr ""
+
+#: admin.js:5205
+msgid "Pinterest options"
+msgstr ""
+
+#: admin.js:5225
+msgid "Embed Pinterest on bio link"
+msgstr ""
+
+#: admin.js:5236
+msgid "Link off to Pinterest"
+msgstr ""
+
+#: admin.js:5312
+msgid "Shortcode options"
+msgstr ""
+
+#: admin.js:5322
+#: admin.js:9598
+#: admin.js:11894
+msgid "Shortcode"
+msgstr ""
+
+#: admin.js:5332
+msgid "[gallery id=\"1\" size=\"medium\"]"
+msgstr ""
+
+#: admin.js:5409
+msgid "Spotify options"
+msgstr ""
+
+#: admin.js:5429
+msgid "Embed Spotify on bio link"
+msgstr ""
+
+#: admin.js:5440
+msgid "Link off to Spotify"
+msgstr ""
+
+#: admin.js:5572
+msgid "Spotlight options"
+msgstr ""
+
+#: admin.js:5587
+msgid "Feed"
+msgstr ""
+
+#: admin.js:5653
+msgid "No feeds found. Please create a feed first."
+msgstr ""
+
+#: admin.js:5719
+msgid "Text options"
+msgstr ""
+
+#: admin.js:5730
+#: admin.js:10127
+#: admin.js:11874
+msgid "Text"
+msgstr ""
+
+#: admin.js:5737
+msgid "Share text with your visitors."
+msgstr ""
+
+#: admin.js:5744
+msgid "Button"
+msgstr ""
+
+#: admin.js:5746
+msgid "Add a button that links to a destination URL."
+msgstr ""
+
+#: admin.js:5749
+#: admin.js:12303
+#: admin.js:13867
+#: admin.js:14731
+#: admin.js:15493
+#: admin.js:15943
+#: admin.js:16232
+msgid "Title"
+msgstr ""
+
+#: admin.js:5756
+msgid "Button title"
+msgstr ""
+
+#: admin.js:5761
+#: admin.js:13968
+#: admin.js:15963
+#: admin.js:16011
+msgid "URL"
+msgstr ""
+
+#: admin.js:5768
+msgid "Button URL"
+msgstr ""
+
+#: admin.js:5844
+msgid "TikTok options"
+msgstr ""
+
+#: admin.js:5864
+msgid "Embed TikTok on bio link"
+msgstr ""
+
+#: admin.js:5875
+msgid "Link off to TikTok"
+msgstr ""
+
+#: admin.js:5970
+msgid "Twitch options"
+msgstr ""
+
+#: admin.js:5990
+msgid "Embed on bio link"
+msgstr ""
+
+#: admin.js:6001
+msgid "Link off to Twitch"
+msgstr ""
+
+#: admin.js:6138
+msgid "Vimeo options"
+msgstr ""
+
+#: admin.js:6169
+msgid "Link off to Vimeo"
+msgstr ""
+
+#: admin.js:6384
+msgid "WooCommerce options"
+msgstr ""
+
+#: admin.js:6394
+msgid "Products"
+msgstr ""
+
+#: admin.js:6400
+msgid "Please install and activate the WooCommerce plugin to select products."
+msgstr ""
+
+#: admin.js:6408
+msgid "%s products"
+msgstr ""
+
+#: admin.js:6410
+msgid "%s categories"
+msgstr ""
+
+#: admin.js:6457
+msgid "Tell people about your shop and what you sell."
+msgstr ""
+
+#: admin.js:6497
+#: admin.js:6540
+#: admin.js:6726
+msgid "Add products"
+msgstr ""
+
+#: admin.js:6540
+msgid "Edit products"
+msgstr ""
+
+#: admin.js:6540
+msgid "Edit categories"
+msgstr ""
+
+#: admin.js:6540
+msgid "Select products"
+msgstr ""
+
+#: admin.js:6540
+msgid "Select categories"
+msgstr ""
+
+#: admin.js:6555
+msgid "Select single products or choose a category to include all products in that category."
+msgstr ""
+
+#: admin.js:6555
+msgid "Search and choose products"
+msgstr ""
+
+#: admin.js:6555
+msgid "Search and choose categories"
+msgstr ""
+
+#: admin.js:6599
+msgid "Select single products"
+msgstr ""
+
+#: admin.js:6620
+msgid "Select by category"
+msgstr ""
+
+#: admin.js:6658
+#: admin.js:17530
+#: admin.js:20763
+#: frontend.js:2330
+msgid "Free"
+msgstr ""
+
+#: admin.js:6697
+msgid "%s items"
+msgstr ""
+
+#: admin.js:6726
+msgid "Update products"
+msgstr ""
+
+#: admin.js:6726
+msgid "Update categories"
+msgstr ""
+
+#: admin.js:6726
+msgid "Add categories"
+msgstr ""
+
+#: admin.js:6795
+msgid "YouTube options"
+msgstr ""
+
+#: admin.js:6826
+msgid "Link off to YouTube"
+msgstr ""
+
+#: admin.js:7023
+msgid "Overview"
+msgstr ""
+
+#: admin.js:7029
+msgid "Users"
+msgstr ""
+
+#: admin.js:7292
+#: admin.js:7729
+#: admin.js:7921
+#: admin.js:8072
+#: admin.js:8226
+#: admin.js:8402
+#: admin.js:8553
+#: admin.js:8704
+#: admin.js:8863
+#: admin.js:9047
+#: admin.js:9338
+#: admin.js:9529
+#: admin.js:9688
+#: admin.js:9880
+#: admin.js:10044
+#: admin.js:10217
+#: admin.js:10423
+#: admin.js:10618
+#: admin.js:10834
+#: admin.js:10988
+#: admin.js:11180
+#: admin.js:12529
+#: admin.js:18006
+msgid "Analytics"
+msgstr ""
+
+#: admin.js:7333
+msgid "This link has been clicked %s times."
+msgstr ""
+
+#: admin.js:7333
+msgid "Upgrade to Social Pro to see the performance of this link, access meaningful analytics, and more."
+msgstr ""
+
+#: admin.js:7343
+msgid "View activity"
+msgstr ""
+
+#: admin.js:7353
+msgid "Your biggest audience is in:"
+msgstr ""
+
+#: admin.js:7363
+msgid "Most viewed on:"
+msgstr ""
+
+#: admin.js:7374
+msgid "Click activity"
+msgstr ""
+
+#: admin.js:7506
+#: admin.js:7578
+msgid "Date range:"
+msgstr ""
+
+#: admin.js:7521
+#: admin.js:7593
+msgid "Last 7 days"
+msgstr ""
+
+#: admin.js:7525
+#: admin.js:7597
+msgid "Last 30 days"
+msgstr ""
+
+#: admin.js:7529
+#: admin.js:7601
+msgid "Last 60 days"
+msgstr ""
+
+#: admin.js:7533
+#: admin.js:7605
+msgid "Last 90 days"
+msgstr ""
+
+#: admin.js:7537
+#: admin.js:7609
+msgid "Last year"
+msgstr ""
+
+#: admin.js:7648
+#: admin.js:11567
+msgid "Blog"
+msgstr ""
+
+#: admin.js:7665
+#: admin.js:7857
+#: admin.js:8008
+#: admin.js:8162
+#: admin.js:8338
+#: admin.js:8489
+#: admin.js:8640
+#: admin.js:8799
+#: admin.js:8983
+#: admin.js:9274
+#: admin.js:9465
+#: admin.js:9624
+#: admin.js:9816
+#: admin.js:9980
+#: admin.js:10153
+#: admin.js:10359
+#: admin.js:10554
+#: admin.js:10770
+#: admin.js:10924
+#: admin.js:11116
+msgid "Thumbnail"
+msgstr ""
+
+#: admin.js:7738
+#: admin.js:7930
+#: admin.js:8081
+#: admin.js:8235
+#: admin.js:8411
+#: admin.js:8562
+#: admin.js:8713
+#: admin.js:8872
+#: admin.js:9056
+#: admin.js:9347
+#: admin.js:9538
+#: admin.js:9697
+#: admin.js:9889
+#: admin.js:10053
+#: admin.js:10226
+#: admin.js:10432
+#: admin.js:10627
+#: admin.js:10843
+#: admin.js:10997
+#: admin.js:11189
+msgid "Lifetime clicks"
+msgstr ""
+
+#: admin.js:7746
+#: admin.js:7938
+#: admin.js:8089
+#: admin.js:8243
+#: admin.js:8419
+#: admin.js:8570
+#: admin.js:8721
+#: admin.js:8880
+#: admin.js:9064
+#: admin.js:9355
+#: admin.js:9546
+#: admin.js:9705
+#: admin.js:9897
+#: admin.js:10061
+#: admin.js:10234
+#: admin.js:10440
+#: admin.js:10635
+#: admin.js:10851
+#: admin.js:11005
+#: admin.js:11197
+msgid "%s clicks"
+msgstr ""
+
+#: admin.js:7802
+msgid "Please provide a valid Calendly link."
+msgstr ""
+
+#: admin.js:7840
+#: admin.js:11953
+msgid "Calendly"
+msgstr ""
+
+#: admin.js:7978
+msgid "Please set up a response type."
+msgstr ""
+
+#: admin.js:7991
+#: admin.js:11688
+msgid "Contact form"
+msgstr ""
+
+#: admin.js:8136
+msgid "Please enter at least one contact detail."
+msgstr ""
+
+#: admin.js:8145
+#: admin.js:11622
+msgid "Contact info"
+msgstr ""
+
+#: admin.js:8286
+#: admin.js:9128
+msgid "Please provide a valid link."
+msgstr ""
+
+#: admin.js:8286
+msgid "Please add a discount code."
+msgstr ""
+
+#: admin.js:8286
+msgid "Please add a button text."
+msgstr ""
+
+#: admin.js:8321
+#: admin.js:11933
+msgid "Discount code"
+msgstr ""
+
+#: admin.js:8459
+msgid "Please add a document."
+msgstr ""
+
+#: admin.js:8610
+msgid "Please set up a payment provider."
+msgstr ""
+
+#: admin.js:8623
+#: admin.js:11599
+msgid "Donation"
+msgstr ""
+
+#: admin.js:8760
+msgid "Please set up a mail provider and select a mailing list."
+msgstr ""
+
+#: admin.js:8773
+#: admin.js:11657
+msgid "Email signup"
+msgstr ""
+
+#: admin.js:8932
+msgid "Please provide a valid Facebook video link."
+msgstr ""
+
+#: admin.js:8966
+msgid "Facebook"
+msgstr ""
+
+#: admin.js:9408
+msgid "Please provide a valid Pinterest link."
+msgstr ""
+
+#: admin.js:9446
+#: admin.js:11792
+msgid "Pinterest"
+msgstr ""
+
+#: admin.js:9589
+msgid "Please set up a valid shortcode."
+msgstr ""
+
+#: admin.js:9758
+msgid "Please provide a valid Spotify link."
+msgstr ""
+
+#: admin.js:9796
+#: admin.js:11773
+msgid "Spotify"
+msgstr ""
+
+#: admin.js:9943
+msgid "Spotlight is not installed or activated."
+msgstr ""
+
+#: admin.js:9943
+msgid "Please select at feed to display."
+msgstr ""
+
+#: admin.js:9952
+#: admin.js:11754
+msgid "Spotlight"
+msgstr ""
+
+#: admin.js:10112
+msgid "Please provide a valid button link."
+msgstr ""
+
+#: admin.js:10112
+msgid "Please enter some text."
+msgstr ""
+
+#: admin.js:10287
+msgid "Please provide a valid TikTok link."
+msgstr ""
+
+#: admin.js:10325
+#: admin.js:11811
+msgid "TikTok"
+msgstr ""
+
+#: admin.js:10493
+msgid "Please provide a valid Twitch link."
+msgstr ""
+
+#: admin.js:10529
+#: admin.js:11830
+msgid "Twitch"
+msgstr ""
+
+#: admin.js:10690
+msgid "Please provide a valid Vimeo video link."
+msgstr ""
+
+#: admin.js:10728
+#: admin.js:11853
+msgid "Vimeo"
+msgstr ""
+
+#: admin.js:10898
+msgid "WooCommerce is not installed or activated."
+msgstr ""
+
+#: admin.js:10898
+msgid "Please select at least one product."
+msgstr ""
+
+#: admin.js:10907
+#: admin.js:11912
+msgid "WooCommerce"
+msgstr ""
+
+#: admin.js:11061
+msgid "Please provide a valid YouTube video link."
+msgstr ""
+
+#: admin.js:11099
+#: admin.js:11546
+msgid "YouTube"
+msgstr ""
+
+#: admin.js:11547
+msgid "Embed a video from YouTube."
+msgstr ""
+
+#: admin.js:11568
+msgid "Showcase your latest blog posts."
+msgstr ""
+
+#: admin.js:11586
+msgid "Header"
+msgstr ""
+
+#: admin.js:11587
+msgid "Keep your content organized."
+msgstr ""
+
+#: admin.js:11600
+msgid "Collect donations from your followers."
+msgstr ""
+
+#: admin.js:11623
+msgid "Share your contact information."
+msgstr ""
+
+#: admin.js:11658
+msgid "Let users sign up to your mailing list."
+msgstr ""
+
+#: admin.js:11689
+msgid "Let visitors get in touch with you."
+msgstr ""
+
+#: admin.js:11735
+msgid "Share a document with your followers."
+msgstr ""
+
+#: admin.js:11755
+msgid "Embed your Instagram feed."
+msgstr ""
+
+#: admin.js:11774
+msgid "Link to your favorite album or playlist."
+msgstr ""
+
+#: admin.js:11793
+msgid "Showcase pins, boards and more."
+msgstr ""
+
+#: admin.js:11812
+msgid "Share a TikTok video or profile."
+msgstr ""
+
+#: admin.js:11831
+msgid "Share your latest Twitch stream."
+msgstr ""
+
+#: admin.js:11854
+msgid "Add Vimeo videos to your bio link."
+msgstr ""
+
+#: admin.js:11875
+msgid "Add a text element to your bio link."
+msgstr ""
+
+#: admin.js:11895
+msgid "Insert additional custom elements."
+msgstr ""
+
+#: admin.js:11913
+msgid "Embed a WooCommerce storefront."
+msgstr ""
+
+#: admin.js:11934
+msgid "Display a discount code."
+msgstr ""
+
+#: admin.js:11947
+msgid "Copy the code and visit the store to claim your discount"
+msgstr ""
+
+#: admin.js:11948
+msgid "Go to store"
+msgstr ""
+
+#: admin.js:11954
+msgid "Schedule appointments via Calendly."
+msgstr ""
+
+#: admin.js:12026
+msgid "Add new link"
+msgstr ""
+
+#: admin.js:12036
+#: admin.js:12088
+msgid "Explore"
+msgstr ""
+
+#: admin.js:12103
+msgid "Share your content"
+msgstr ""
+
+#: admin.js:12107
+msgid "Share and embed your content on your bio link."
+msgstr ""
+
+#: admin.js:12149
+#: admin.js:12211
+#: admin.js:12264
+msgid "Add"
+msgstr ""
+
+#: admin.js:12160
+msgid "View more"
+msgstr ""
+
+#: admin.js:12164
+msgid "Connect with your followers"
+msgstr ""
+
+#: admin.js:12168
+msgid "Everything you need to connect, manage and grow your audience."
+msgstr ""
+
+#: admin.js:12214
+msgid "Monetize your bio link"
+msgstr ""
+
+#: admin.js:12218
+msgid "Easily earn and collect money from your followers."
+msgstr ""
+
+#: admin.js:12366
+msgid "No links yet"
+msgstr ""
+
+#: admin.js:12367
+msgid "Click the button above to add your first link."
+msgstr ""
+
+#: admin.js:12464
+msgid "Meet the Social Editor"
+msgstr ""
+
+#: admin.js:12464
+msgid "Here you can personalize the content and design of your bio link, and gain insights into its performance. Let's take a quick tour to get you started."
+msgstr ""
+
+#: admin.js:12470
+msgid "Make it yours"
+msgstr ""
+
+#: admin.js:12472
+msgid "Easily add rich content to your bio link. Add basic links or embed videos, storefronts, forms, and more via the Explore button."
+msgstr ""
+
+#: admin.js:12478
+msgid "See what's happening"
+msgstr ""
+
+#: admin.js:12480
+msgid "The preview enables you to view the updates made to your bio link page as you edit it, instantly."
+msgstr ""
+
+#: admin.js:12486
+msgid "Share with ease"
+msgstr ""
+
+#: admin.js:12488
+msgid "Effortlessly share your bio link page with your followers. Simply press the Share button and copy the link to your clipboard."
+msgstr ""
+
+#: admin.js:12494
+msgid "Know where to go"
+msgstr ""
+
+#: admin.js:12496
+msgid "Use the navigation bar to access different pages of the Social Editor."
+msgstr ""
+
+#: admin.js:12507
+msgid "Exit to the Home View"
+msgstr ""
+
+#: admin.js:12511
+#: admin.js:15796
+#: admin.js:17988
+msgid "Links"
+msgstr ""
+
+#: admin.js:12516
+msgid "Add, edit and manage links"
+msgstr ""
+
+#: admin.js:12520
+#: admin.js:17997
+msgid "Settings"
+msgstr ""
+
+#: admin.js:12525
+msgid "Edit the settings of your bio link"
+msgstr ""
+
+#: admin.js:12534
+msgid "View bio link performance insights"
+msgstr ""
+
+#: admin.js:12714
+#: admin.js:13519
+msgid "Got it"
+msgstr ""
+
+#: admin.js:12715
+#: admin.js:13520
+msgid "Next"
+msgstr ""
+
+#: admin.js:12774
+#: admin.js:17965
+#: admin.js:18338
+msgid "Upgrade"
+msgstr ""
+
+#: admin.js:12817
+msgid "Preview"
+msgstr ""
+
+#: admin.js:12893
+msgid "%s link"
+msgstr ""
+
+#: admin.js:12893
+#: admin.js:17723
+#: admin.js:17778
+msgid "%s links"
+msgstr ""
+
+#: admin.js:12895
+msgid "Updated %s"
+msgstr ""
+
+#: admin.js:12901
+msgid "Options"
+msgstr ""
+
+#: admin.js:12956
+msgid "Rename"
+msgstr ""
+
+#: admin.js:12966
+msgid "Copied link to clipboard."
+msgstr ""
+
+#: admin.js:12972
+msgid "Copy link"
+msgstr ""
+
+#: admin.js:12982
+msgid "Duplicate"
+msgstr ""
+
+#: admin.js:13121
+msgid "A single place for all your bio link pages"
+msgstr ""
+
+#: admin.js:13121
+msgid "Welcome to the Home View. Seamlessly create, edit, and delete your bio link pages, all at your fingertips."
+msgstr ""
+
+#: admin.js:13127
+msgid "Create bio link pages"
+msgstr ""
+
+#: admin.js:13129
+msgid "Choose from a curated selection of templates or begin from a blank canvas and effortlessly create new bio link pages."
+msgstr ""
+
+#: admin.js:13135
+msgid "View recently edited pages"
+msgstr ""
+
+#: admin.js:13137
+msgid "View all your recently edited bio link pages in one place and make any necessary edits with just a single click."
+msgstr ""
+
+#: admin.js:13151
+msgid "Say Hello to the Template Library"
+msgstr ""
+
+#: admin.js:13151
+msgid "The Template Library is the starting point for every new bio link page. Simply choose from a curated selection of templates or begin with a blank canvas."
+msgstr ""
+
+#: admin.js:13157
+msgid "Filter templates"
+msgstr ""
+
+#: admin.js:13159
+msgid "Easily sort templates by category to discover the ideal templates for your needs."
+msgstr ""
+
+#: admin.js:13645
+#: admin.js:17778
+msgid "Paid"
+msgstr ""
+
+#: admin.js:13656
+msgid "Updated %(date)s"
+msgstr ""
+
+#: admin.js:13673
+#: admin.js:13711
+#: admin.js:13942
+#: admin.js:14556
+#: admin.js:17680
+msgid "Your name"
+msgstr ""
+
+#: admin.js:13674
+#: admin.js:13712
+#: admin.js:13943
+#: admin.js:14558
+#: admin.js:17682
+msgid "Your bio description"
+msgstr ""
+
+#: admin.js:13685
+msgid "Use this template"
+msgstr ""
+
+#: admin.js:13685
+msgid "Upgrade to use this template"
+msgstr ""
+
+#: admin.js:13700
+msgid "Use %s"
+msgstr ""
+
+#: admin.js:13702
+msgid "Start from scratch or keep the default content?"
+msgstr ""
+
+#: admin.js:13728
+msgid "Start from scratch"
+msgstr ""
+
+#: admin.js:13736
+#: admin.js:13763
+msgid "Theme colors, fonts, and background"
+msgstr ""
+
+#: admin.js:13749
+msgid "Start with default content"
+msgstr ""
+
+#: admin.js:13757
+msgid "Profile picture, title, bio, and %s links"
+msgstr ""
+
+#: admin.js:13777
+#: admin.js:13835
+#: admin.js:13919
+#: admin.js:14169
+#: admin.js:14466
+msgid "Next step"
+msgstr ""
+
+#: admin.js:13790
+msgid "Pick a profile image"
+msgstr ""
+
+#: admin.js:13792
+msgid "Have a favorite selfie? Upload it now."
+msgstr ""
+
+#: admin.js:13849
+#: admin.js:13950
+msgid "Skip for now"
+msgstr ""
+
+#: admin.js:13862
+msgid "Add profile details"
+msgstr ""
+
+#: admin.js:13864
+msgid "Tell people who your are and what you do."
+msgstr ""
+
+#: admin.js:13882
+#: admin.js:15501
+msgid "Enter a title"
+msgstr ""
+
+#: admin.js:13887
+#: admin.js:15506
+msgid "Bio"
+msgstr ""
+
+#: admin.js:13902
+#: admin.js:15515
+msgid "Tell something about yourself"
+msgstr ""
+
+#: admin.js:13919
+#: admin.js:14040
+#: admin.js:14466
+#: admin.js:14525
+msgid "Create bio link"
+msgstr ""
+
+#: admin.js:13963
+msgid "Choose a URL"
+msgstr ""
+
+#: admin.js:13965
+msgid "Pick a URL for sharing your bio link."
+msgstr ""
+
+#: admin.js:13974
+#: admin.js:16017
+msgid "Homepage"
+msgstr ""
+
+#: admin.js:13993
+msgid "Suggestions:"
+msgstr ""
+
+#: admin.js:14018
+#: admin.js:16065
+msgid "Set as homepage"
+msgstr ""
+
+#: admin.js:14071
+msgid "Select a style"
+msgstr ""
+
+#: admin.js:14073
+msgid "Pick a style or use AI to create one."
+msgstr ""
+
+#: admin.js:14073
+msgid "Pick a style that fits your bio link."
+msgstr ""
+
+#: admin.js:14127
+msgid "Create your own with AI"
+msgstr ""
+
+#: admin.js:14223
+msgid "Select a layout"
+msgstr ""
+
+#: admin.js:14225
+msgid "Pick a layout that fits your style."
+msgstr ""
+
+#: admin.js:14297
+#: admin.js:16349
+#: admin.js:17330
+msgid "Classic"
+msgstr ""
+
+#: admin.js:14335
+#: admin.js:16394
+msgid "Hero"
+msgstr ""
+
+#: admin.js:14372
+#: admin.js:16438
+msgid "Pro"
+msgstr ""
+
+#: admin.js:14452
+#: admin.js:16525
+msgid "Frame"
+msgstr ""
+
+#: admin.js:14484
+msgid "Your bio link is live"
+msgstr ""
+
+#: admin.js:14486
+msgid "Use this link to access your bio link:"
+msgstr ""
+
+#: admin.js:14503
+msgid "Click the button below to start customizing."
+msgstr ""
+
+#: admin.js:14512
+msgid "Continue to the editor"
+msgstr ""
+
+#: admin.js:14527
+msgid "Get started with a blank canvas or choose a pre-made template."
+msgstr ""
+
+#: admin.js:14581
+#: admin.js:17721
+msgid "Blank"
+msgstr ""
+
+#: admin.js:14613
+#: admin.js:17708
+#: admin.js:17763
+msgid "Use template"
+msgstr ""
+
+#: admin.js:14628
+#: admin.js:17526
+msgid "All templates"
+msgstr ""
+
+#: admin.js:14632
+msgid "Recently edited"
+msgstr ""
+
+#: admin.js:14710
+msgid "Rename page"
+msgstr ""
+
+#: admin.js:14747
+msgid "Update"
+msgstr ""
+
+#: admin.js:14787
+msgid "Delete page"
+msgstr ""
+
+#: admin.js:14791
+msgid "This action cannot be undone."
+msgstr ""
+
+#: admin.js:15074
+#: admin.js:15450
+msgid "Profile"
+msgstr ""
+
+#: admin.js:15082
+#: admin.js:15792
+msgid "Footer"
+msgstr ""
+
+#: admin.js:15086
+#: admin.js:16006
+msgid "SEO"
+msgstr ""
+
+#: admin.js:15090
+#: admin.js:16317
+msgid "Layout"
+msgstr ""
+
+#: admin.js:15094
+msgid "Style"
+msgstr ""
+
+#: admin.js:15400
+msgid "Jump to:"
+msgstr ""
+
+#: admin.js:15450
+msgid "Upload a profile image, add a title and a bio."
+msgstr ""
+
+#: admin.js:15455
+msgid "Avatar"
+msgstr ""
+
+#: admin.js:15483
+msgid "Select image"
+msgstr ""
+
+#: admin.js:15530
+msgid "Add your social channels to your bio link."
+msgstr ""
+
+#: admin.js:15601
+msgid "Share your socials"
+msgstr ""
+
+#: admin.js:15603
+msgid "Show visitors all the ways they can engage with you and your content."
+msgstr ""
+
+#: admin.js:15612
+#: admin.js:15777
+msgid "Add icon"
+msgstr ""
+
+#: admin.js:15657
+msgid "Social icons"
+msgstr ""
+
+#: admin.js:15657
+msgid "Add %(icon)s icon"
+msgstr ""
+
+#: admin.js:15659
+msgid "Edit %(icon)s icon"
+msgstr ""
+
+#: admin.js:15676
+msgid "Search and choose from social icons"
+msgstr ""
+
+#: admin.js:15753
+msgid "example"
+msgstr ""
+
+#: admin.js:15777
+msgid "Edit icon"
+msgstr ""
+
+#: admin.js:15792
+msgid "Add additional links, such as legal text, to the footer."
+msgstr ""
+
+#: admin.js:15860
+msgid "Add footer links"
+msgstr ""
+
+#: admin.js:15862
+msgid "Need extra space for linking legal text or similar? Add them here."
+msgstr ""
+
+#: admin.js:15871
+#: admin.js:15916
+#: admin.js:15990
+msgid "Add link"
+msgstr ""
+
+#: admin.js:15916
+#: admin.js:15990
+msgid "Edit link"
+msgstr ""
+
+#: admin.js:15931
+msgid "Please provide a title and a URL for the link."
+msgstr ""
+
+#: admin.js:15947
+msgid "e.g. Privacy"
+msgstr ""
+
+#: admin.js:15971
+msgid "example.com"
+msgstr ""
+
+#: admin.js:16006
+msgid "Edit the URL of your bio link, adjust indexing by search engines, and more."
+msgstr ""
+
+#: admin.js:16068
+msgid "Set this bio link as your website's homepage."
+msgstr ""
+
+#: admin.js:16099
+msgid "Custom meta"
+msgstr ""
+
+#: admin.js:16102
+msgid "Edit the meta tags of this bio link."
+msgstr ""
+
+#: admin.js:16110
+msgid "Prevent indexing"
+msgstr ""
+
+#: admin.js:16113
+msgid "Ask search engines not to index this bio link."
+msgstr ""
+
+#: admin.js:16168
+msgid "Edit meta"
+msgstr ""
+
+#: admin.js:16176
+msgid "Hide preview"
+msgstr ""
+
+#: admin.js:16176
+msgid "Show preview"
+msgstr ""
+
+#: admin.js:16205
+msgid "Edit the meta title, description, and image of this bio link."
+msgstr ""
+
+#: admin.js:16240
+msgid "Enter a meta title"
+msgstr ""
+
+#: admin.js:16253
+msgid "Enter a meta description"
+msgstr ""
+
+#: admin.js:16258
+#: admin.js:16714
+msgid "Image"
+msgstr ""
+
+#: admin.js:16305
+msgid "Recommended size for this image is:"
+msgstr ""
+
+#: admin.js:16317
+msgid "Adjust the layout of your bio link."
+msgstr ""
+
+#: admin.js:16321
+msgid "Layout type"
+msgstr ""
+
+#: admin.js:16535
+msgid "Styles"
+msgstr ""
+
+#: admin.js:16535
+msgid "Edit colors, backgrounds, fonts, buttons, and more."
+msgstr ""
+
+#: admin.js:16539
+msgid "Style type"
+msgstr ""
+
+#: admin.js:16557
+#: admin.js:19864
+#: frontend.js:1431
+msgid "Custom"
+msgstr ""
+
+#: admin.js:16631
+msgid "Or AI-create"
+msgstr ""
+
+#: admin.js:16636
+msgid "Backgrounds"
+msgstr ""
+
+#: admin.js:16640
+msgid "Background type"
+msgstr ""
+
+#: admin.js:16651
+msgid "Main background"
+msgstr ""
+
+#: admin.js:16657
+msgid "Header background"
+msgstr ""
+
+#: admin.js:16676
+#: admin.js:16899
+msgid "Solid"
+msgstr ""
+
+#: admin.js:16695
+msgid "Gradient"
+msgstr ""
+
+#: admin.js:16717
+msgid "Background color"
+msgstr ""
+
+#: admin.js:16741
+#: admin.js:16813
+#: admin.js:16844
+#: admin.js:17222
+#: admin.js:17255
+#: admin.js:17288
+#: admin.js:17409
+msgid "Color"
+msgstr ""
+
+#: admin.js:16747
+msgid "Gradient direction"
+msgstr ""
+
+#: admin.js:16768
+msgid "To bottom"
+msgstr ""
+
+#: admin.js:16781
+msgid "To top"
+msgstr ""
+
+#: admin.js:16789
+msgid "Gradient color one"
+msgstr ""
+
+#: admin.js:16820
+msgid "Gradient color two"
+msgstr ""
+
+#: admin.js:16850
+#: admin.js:16880
+msgid "Background image"
+msgstr ""
+
+#: admin.js:16891
+msgid "Upload custom background"
+msgstr ""
+
+#: admin.js:16895
+msgid "Buttons"
+msgstr ""
+
+#: admin.js:16957
+msgid "Outline"
+msgstr ""
+
+#: admin.js:17015
+msgid "3D"
+msgstr ""
+
+#: admin.js:17076
+msgid "Shadow"
+msgstr ""
+
+#: admin.js:17137
+msgid "Paper"
+msgstr ""
+
+#: admin.js:17196
+msgid "Button color"
+msgstr ""
+
+#: admin.js:17229
+#: admin.js:17383
+msgid "Font color"
+msgstr ""
+
+#: admin.js:17262
+msgid "Shadow color"
+msgstr ""
+
+#: admin.js:17294
+msgid "Fonts"
+msgstr ""
+
+#: admin.js:17304
+msgid "Modern"
+msgstr ""
+
+#: admin.js:17327
+#: admin.js:17353
+#: admin.js:17379
+msgid "Aa"
+msgstr ""
+
+#: admin.js:17356
+msgid "Individual"
+msgstr ""
+
+#: admin.js:17426
+msgid "Badge"
+msgstr ""
+
+#: admin.js:17434
+msgid "Hide the Social badge"
+msgstr ""
+
+#: admin.js:17437
+msgid "Let your brand shine by hiding the Social badge from your bio link."
+msgstr ""
+
+#: admin.js:17525
+msgid "All"
+msgstr ""
+
+#: admin.js:17527
+msgid "Bio link templates for all purposes."
+msgstr ""
+
+#: admin.js:17531
+msgid "Free templates"
+msgstr ""
+
+#: admin.js:17532
+msgid "Free bio link templates."
+msgstr ""
+
+#: admin.js:17535
+#: admin.js:17536
+msgid "Fashion"
+msgstr ""
+
+#: admin.js:17537
+msgid "Bio link templates for fashion and beauty."
+msgstr ""
+
+#: admin.js:17540
+#: admin.js:17541
+msgid "Marketing"
+msgstr ""
+
+#: admin.js:17542
+msgid "Bio link templates for marketing and advertising."
+msgstr ""
+
+#: admin.js:17545
+#: admin.js:17546
+msgid "Influencers and Creators"
+msgstr ""
+
+#: admin.js:17547
+msgid "Bio link templates for influencers and creators."
+msgstr ""
+
+#: admin.js:17550
+#: admin.js:17551
+msgid "Small Business"
+msgstr ""
+
+#: admin.js:17552
+msgid "Bio link templates for small businesses."
+msgstr ""
+
+#: admin.js:17555
+#: admin.js:17556
+msgid "Sports"
+msgstr ""
+
+#: admin.js:17557
+msgid "Bio link templates for sports."
+msgstr ""
+
+#: admin.js:17560
+#: admin.js:17561
+msgid "Music"
+msgstr ""
+
+#: admin.js:17562
+msgid "Bio link templates for music."
+msgstr ""
+
+#: admin.js:17565
+#: admin.js:17566
+msgid "Health and Fitness"
+msgstr ""
+
+#: admin.js:17567
+msgid "Bio link templates for health and fitness."
+msgstr ""
+
+#: admin.js:17570
+#: admin.js:17571
+msgid "Social and Digital Media"
+msgstr ""
+
+#: admin.js:17572
+msgid "Bio link templates for social and digital media."
+msgstr ""
+
+#: admin.js:17575
+#: admin.js:17576
+msgid "Art and Photography"
+msgstr ""
+
+#: admin.js:17577
+msgid "Bio link templates for art and photography."
+msgstr ""
+
+#: admin.js:17834
+msgid "Share"
+msgstr ""
+
+#: admin.js:17850
+msgid "Share your bio link"
+msgstr ""
+
+#: admin.js:17856
+msgid "Grow your audience by sharing your links everywhere."
+msgstr ""
+
+#: admin.js:17877
+msgid "Open in new tab"
+msgstr ""
+
+#: admin.js:17897
+#: admin.js:19649
+#: frontend.js:1216
+msgid "Copied"
+msgstr ""
+
+#: admin.js:17897
+msgid "Copy"
+msgstr ""
+
+#: admin.js:17975
+msgid "New bio link"
+msgstr ""
+
+#: admin.js:17977
+msgid "Templates"
+msgstr ""
+
+#: admin.js:18230
+msgid "Join Social %s to unlock this feature and many amazing others."
+msgstr ""
+
+#: admin.js:18238
+msgid "Boost your brand recognition with custom designs"
+msgstr ""
+
+#: admin.js:18244
+msgid "Add dynamic content to your bio link page by unlocking all Explore button links"
+msgstr ""
+
+#: admin.js:18250
+msgid "Add social icons and highlight links with animations"
+msgstr ""
+
+#: admin.js:18256
+msgid "Unlock exclusive paid templates, receive support, and more"
+msgstr ""
+
+#: admin.js:18262
+msgid "Analyze the performance of your links and bio link page"
+msgstr ""
+
+#: admin.js:18268
+msgid "Schedule your links to show or hide at a specific time"
+msgstr ""
+
+#: admin.js:18274
+msgid "Set your bio link page as your site's homepage"
+msgstr ""
+
+#: admin.js:18280
+msgid "Receive priority support, add custom meta tags, and more"
+msgstr ""
+
+#: admin.js:18285
+msgid "Upgrade to %s"
+msgstr ""
+
+#: admin.js:18355
+msgid "Upgrade to unlock this feature"
+msgstr ""
+
+#: admin.js:18357
+msgid "Your current plan does not support this feature. Upgrade to unlock it."
+msgstr ""
+
+#: admin.js:18362
+msgid "Upgrade now"
+msgstr ""
+
+#: admin.js:18517
+msgid "Minimize editor"
+msgstr ""
+
+#: admin.js:18517
+msgid "Maximize editor"
+msgstr ""
+
+#: admin.js:18540
+msgid "Help"
+msgstr ""
+
+#: admin.js:18569
+msgid "Contact us"
+msgstr ""
+
+#: admin.js:18579
+msgid "Help center"
+msgstr ""
+
+#: admin.js:18591
+msgid "Visit our homepage"
+msgstr ""
+
+#: admin.js:18762
+#: frontend.js:329
+msgid "We use Social"
+msgstr ""
+
+#: admin.js:19179
+#: frontend.js:746
+msgid "No posts found."
+msgstr ""
+
+#: admin.js:19349
+#: frontend.js:916
+msgid "Thank you for your message."
+msgstr ""
+
+#: admin.js:19359
+#: admin.js:19831
+#: admin.js:20026
+#: frontend.js:926
+#: frontend.js:1398
+#: frontend.js:1593
+msgid "Go back"
+msgstr ""
+
+#: admin.js:19393
+#: frontend.js:960
+msgid "Submit"
+msgstr ""
+
+#: admin.js:19411
+#: admin.js:20063
+#: frontend.js:978
+#: frontend.js:1630
+msgid "An unexpected error occurred. Please try again."
+msgstr ""
+
+#: admin.js:19418
+#: admin.js:20070
+#: frontend.js:985
+#: frontend.js:1637
+msgid "Learn more"
+msgstr ""
+
+#: admin.js:19568
+#: frontend.js:1135
+msgid "Save to contacts"
+msgstr ""
+
+#: admin.js:19644
+#: frontend.js:1211
+msgid "Copy code"
+msgstr ""
+
+#: admin.js:19742
+#: frontend.js:1309
+msgid "View"
+msgstr ""
+
+#: admin.js:19823
+#: frontend.js:1390
+msgid "Thank you for your donation."
+msgstr ""
+
+#: admin.js:19899
+#: frontend.js:1466
+msgid "Continue"
+msgstr ""
+
+#: admin.js:19901
+#: frontend.js:1468
+msgid "Please enter a valid amount to continue."
+msgstr ""
+
+#: admin.js:20019
+#: frontend.js:1586
+msgid "Thank you for subscribing."
+msgstr ""
+
+#: admin.js:20045
+#: frontend.js:1612
+msgid "Subscribe"
+msgstr ""
+
+#: admin.js:20182
+#: frontend.js:1749
+msgid "Open in Pinterest"
+msgstr ""
+
+#: admin.js:20305
+#: frontend.js:1872
+msgid "Open in Spotify"
+msgstr ""
+
+#: admin.js:20418
+#: frontend.js:1985
+msgid "View on Instagram"
+msgstr ""
+
+#: admin.js:20422
+#: frontend.js:1989
+msgid "No feed found."
+msgstr ""
+
+#: admin.js:20521
+#: frontend.js:2088
+msgid "Open in TikTok"
+msgstr ""
+
+#: admin.js:20773
+#: frontend.js:2340
+msgid "View shop"
+msgstr ""
+
+#: admin.js:20777
+#: frontend.js:2344
+msgid "No products found."
+msgstr ""
+
+#: admin.js:21406
+#: frontend.js:2973
+msgid "Mobile"
+msgstr ""
+
+#: admin.js:21411
+#: admin.js:21412
+#: frontend.js:2978
+#: frontend.js:2979
+msgid "Message"
+msgstr ""

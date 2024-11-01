@@ -1,0 +1,730 @@
+{
+    "translation-revision-date": "2023-11-23T07:53:35+00:00",
+    "generator": "WP-CLI/2.6.0",
+    "source": "admin.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "de",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Generate style": ["Style generieren"],
+            "For best results, stay as precise as possible.": [
+                "Die besten Ergebnisse erzielen Sie, wenn Sie so pr\u00e4zise wie m\u00f6glich beschreiben."
+            ],
+            "Description": ["Beschreibung"],
+            "e.g. summer-styled theme with blue buttons": ["z.B. ein sommerliches Thema mit blauen Buttons"],
+            "Accept style": ["Stil akzeptieren"],
+            "Try again": ["Nochmal versuchen"],
+            "Unleash your personal design co-pilot": ["Schalten Sie Ihren pers\u00f6nlichen Design-Copiloten frei"],
+            "Upgrade to the Performance plan to unlock AI-generated styles.": [
+                "Abonnieren Sie den Performance-Plan, um KI-generierte Stile freizuschalten."
+            ],
+            "Create beautiful styles in seconds": ["Erstellen Sie sch\u00f6ne Styles in Sekundenschnelle"],
+            "Simply describe your desired style and let AI do the rest": [
+                "Beschreiben Sie Ihren gew\u00fcnschten Stil und lassen Sie die KI den Rest erledigen"
+            ],
+            "Upgrade to Performance": ["Upgrade auf Performance"],
+            "Maybe later": ["Vielleicht sp\u00e4ter"],
+            "CTR": ["CTR"],
+            "Views": ["Ansichten"],
+            "Unique views": ["Einzigartige Ansichten"],
+            "Clicks": ["Klicks"],
+            "Unique clicks": ["Einzigartige Klicks"],
+            "Error: %(errorCode)s. If this issue persists, kindly {{a}}contact support{{/a}}.": [
+                "Fehler: %(errorCode)s. Wenn dieses Problem weiterhin besteht, wenden Sie sich bitte an den Support{{/a}}."
+            ],
+            "Unlock analytics and insights": ["Statistiken freischalten"],
+            "To see how your bio link is performing, access meaningful analytics and more, upgrade to the Pro plan.": [
+                "Upgraden Sie auf Pro, um die Leistung Ihres Bio-Links zu sehen und auf Statistiken in Echtzeit zuzugreifen."
+            ],
+            "Upgrade to Pro": ["Upgrade auf Pro"],
+            "Lifetime analytics": ["Lifetime-Statistiken"],
+            "Activity": ["Aktivit\u00e4t"],
+            "Please note: this is example data.": ["Bitte beachten: Dies sind Beispieldaten."],
+            "Days": ["Tage"],
+            "Weeks": ["Wochen"],
+            "Months": ["Monate"],
+            "Top links": ["Top-Links"],
+            "No data yet.": ["Noch keine Daten."],
+            "Please select a different time span or wait until data is collected.": [
+                "Bitte w\u00e4hlen Sie eine andere Zeitspanne oder warten Sie, bis Daten gesammelt werden."
+            ],
+            "View more": ["Mehr anzeigen"],
+            "Top links include the 5 most clicked links in the selected time period.": [
+                "Zu den Top-Links geh\u00f6ren die 5 meistgeklickten Links im ausgew\u00e4hlten Zeitraum."
+            ],
+            "Top locations": ["Top-Standorte"],
+            "Location data may be affected by your visitors' privacy settings or VPN providers.": [
+                "Standortdaten k\u00f6nnen von den Datenschutzeinstellungen Ihrer Besucher beeinflusst werden."
+            ],
+            "Top referrers": ["Top-Referrer"],
+            "Direct visitors are visitors who come to your bio link via the standalone URL.": [
+                "Direkte Besucher sind Besucher, die \u00fcber die Standalone-URL zu Ihrem Bio-Link kommen."
+            ],
+            "Top devices": ["Top-Ger\u00e4te"],
+            "The category \"others\" can include TVs, gaming consoles, smart watches or bots.": [
+                "Die Kategorie \"Sonstige\" kann Fernseher, Spielkonsolen, Smartwatches oder Bots umfassen."
+            ],
+            "Add animation": ["Animation hinzuf\u00fcgen"],
+            "Animation": ["Animation"],
+            "Prioritize this link by adding an animation.": ["Heben Sie diesen Link mit einer Animation hervor."],
+            "None": ["Keine"],
+            "Shake X": ["Sch\u00fctteln X"],
+            "Shake Y": ["Sch\u00fctteln Y"],
+            "Pulse": ["Pulsieren"],
+            "Tada": ["Tada"],
+            "Flash": ["Blitzen"],
+            "Schedule": ["Planung"],
+            "Set a start and end date for displaying this link.": [
+                "Legen Sie ein Start- und Enddatum f\u00fcr die Anzeige des Links fest."
+            ],
+            "Start time": ["Startzeit"],
+            "Duplicate": ["Duplizieren"],
+            "Clear": ["Zur\u00fccksetzen"],
+            "End time": ["Endzeit"],
+            "Add thumbnail": ["Vorschaubild hinzuf\u00fcgen"],
+            "Replace": ["Ersetzen"],
+            "Remove": ["Entfernen"],
+            "Upload custom thumbnail": ["Bild hochladen"],
+            "Icons": ["Icons"],
+            "Choose from icon pack": ["Icon w\u00e4hlen"],
+            "Search and choose from icon pack": ["Suchen und w\u00e4hlen Sie aus dem Icon-Pack"],
+            "Search": ["Suche"],
+            "Delete": ["L\u00f6schen"],
+            "Do you really want to delete this?": ["M\u00f6chten Sie diesen Link wirklich l\u00f6schen?"],
+            "Cancel": ["Abbrechen"],
+            "Blog options": ["Blog Optionen"],
+            "Post count": ["Anzahl der Beitr\u00e4ge"],
+            "3 posts": ["3 Beitr\u00e4ge"],
+            "6 posts": ["6 Beitr\u00e4ge"],
+            "9 posts": ["9 Beitr\u00e4ge"],
+            "Thumbnails": ["Vorschaubilder"],
+            "Display each link with the featured image of the respective post.": [
+                "Zeigen Sie jeden Link mit dem Vorschaubild des jeweiligen Beitrags an."
+            ],
+            "Visibility": ["Sichtbarkeit"],
+            "Expand this link automatically when a visitor arrives on your bio link.": [
+                "Erweiteren Sie diesen Link automatisch, wenn ein Besucher Ihren Bio-Link besucht."
+            ],
+            "Calendly options": ["Calendly-Optionen"],
+            "Display type": ["Anzeigetyp"],
+            "Embed Calendly on bio link": ["Calendly auf Bio-Link einbetten"],
+            "Link off to Calendly": ["Link aus zu Calendly"],
+            "Select a submission type": ["W\u00e4hlen Sie eine Einreichungsart"],
+            "Send an email": ["Schicken Sie eine E-Mail"],
+            "Contact form options": ["Optionen f\u00fcr das Kontaktformular"],
+            "Fields": ["Felder"],
+            "Ask your visitors for information. You can disable any field or mark it as required.": [
+                "Fragen Sie Ihre Besucher nach Informationen. Sie können jedes Feld deaktivieren oder es als erforderlich markieren."
+            ],
+            "Advanced": ["Erweitert"],
+            "Mark as required": ["Als erforderlich markieren"],
+            "Make it mandatory for the user to fill this field.": [
+                "Dieses Feld muss vom Benutzer ausgef\u00fcllt werden."
+            ],
+            "Submissions": ["Einreichungen"],
+            "Select where to send the form submissions.": [
+                "W\u00e4hlen Sie aus, wohin die Formular-Eingaben gesendet werden sollen."
+            ],
+            "Email address": ["E-Mail"],
+            "Tell people why they should get in touch with you.": [
+                "Teilen Sie mit, warum Besucher sich mit Ihnen in Verbindung setzen sollten."
+            ],
+            "Thank you message": ["Dankesnachricht"],
+            "Customize the thank you message shown after a successful submission.": [
+                "Passen Sie die Dankesnachricht an, die nach einer erfolgreichen Anmeldung angezeigt wird."
+            ],
+            "Enter a custom thank you message.": ["Geben Sie eine individuelle Dankesnachricht ein."],
+            "Terms and conditions": ["Bedingungen und Konditionen"],
+            "Link to your terms and conditions, privacy policy, or other legal documents.": [
+                "Verlinken Sie auf Allgemeinen Gesch\u00e4ftsbedingungen, Datenschutzrichtlinien oder andere rechtliche Dokumente."
+            ],
+            "Enter custom terms and conditions or other legal text.": [
+                "Geben Sie benutzerdefinierte Gesch\u00e4ftsbedingungen oder anderen Rechtstext ein."
+            ],
+            "Link": ["Link"],
+            "Please provide a valid Twitch link.": ["Bitte geben Sie einen g\u00fcltigen Twitch-Link an."],
+            "Share your latest Twitch stream.": ["Teilen Sie Ihren neuesten Twitch-Stream."],
+            "example.com/terms-and-conditions": ["beispiel.de/agb"],
+            "Type": ["Typ"],
+            "Personal": ["Pers\u00f6nlich"],
+            "Work": ["Arbeit"],
+            "Other": ["Andere"],
+            "Home": ["Home"],
+            "Contact info options": ["Optionen f\u00fcr Kontaktinformationen"],
+            "Contact details": ["Kontaktinformationen"],
+            "Present your contact details to your visitors. Only the details you fill in will be shown.": [
+                "Teilen Sie Kontaktinformationen mit Besuchern. Es werden nur die von Ihnen eingegebenen Daten angezeigt."
+            ],
+            "Name": ["Name"],
+            "First name": ["Vorname"],
+            "Last name": ["Nachname"],
+            "Occupation": ["Beruf"],
+            "Organization": ["Organisation"],
+            "Position": ["Position"],
+            "Email": ["E-Mail"],
+            "Address": ["Adresse"],
+            "Phone": ["Telefon"],
+            "Number": ["Nummer"],
+            "Street address": ["Stra\u00dfe und Hausnummer"],
+            "Apartment, suite, etc. (optional)": ["Wohnung, Appartement, etc. (optional)"],
+            "City": ["Stadt"],
+            "Country": ["Land"],
+            "Postal code": ["Postleitzahl"],
+            "Opening hours": ["\u00d6ffnungszeiten"],
+            "When are you open for business?": ["Wann haben Sie f\u00fcr den Gesch\u00e4ftsverkehr ge\u00f6ffnet?"],
+            "Please select a PDF file.": ["Bitte w\u00e4hlen Sie eine PDF-Datei aus."],
+            "Document options": ["Dokument-Optionen"],
+            "Document": ["Dokument"],
+            "Tell your visitors what the document is about.": ["Sagen Sie Besuchern, worum es in dem Dokument geht."],
+            "Add a document": ["Ein Dokument hinzuf\u00fcgen"],
+            "Paypal address": ["Paypal-Adresse"],
+            "mail@example.com": ["mail@example.com"],
+            "Your PayPal address is the email you use for your PayPal account.": [
+                "Ihre PayPal-Adresse ist die E-Mail, die Sie f\u00fcr Ihr PayPal-Konto verwenden."
+            ],
+            "Transaction fees may vary by location and account type. See  {{a}}this official PayPal article{{/a}} for more information.": [
+                "Die Transaktionsgeb\u00fchren k\u00f6nnen je nach Standort und Kontotyp variieren. Weitere Informationen finden Sie in {{a}}diesem offiziellen PayPal-Artikel{{/a}}."
+            ],
+            "Donation options": ["Spendenm\u00f6glichkeiten"],
+            "Payment provider": ["Zahlungsanbieter"],
+            "Edit": ["Bearbeiten"],
+            "Add a payment provider": ["Einen Zahlungsanbieter hinzuf\u00fcgen"],
+            "Currency": ["W\u00e4hrung"],
+            "Amounts": ["Betr\u00e4ge"],
+            "Amount": ["Betrag"],
+            "Add amount": ["Betrag hinzuf\u00fcgen"],
+            "Tell people why you are asking for a donation.": [
+                "Teilen Sie mit, warum Sie Besucher um eine Spende bitten."
+            ],
+            "Custom amount": ["Benutzerdefinierte Menge"],
+            "Allow users to enter a custom amount when making a donation.": [
+                "Erlauben Sie Nutzern, einen individuellen Betrag einzugeben, wenn sie eine Spende t\u00e4tigen."
+            ],
+            "Payment providers": ["Zahlungsanbieter"],
+            "Add %(provider)s": ["%(provider)s hinzuf\u00fcgen"],
+            "Edit %(provider)s settings": ["Einstellungen des %(provider) bearbeiten"],
+            "Pick your preferred payment provider": ["W\u00e4hlen Sie Ihren bevorzugten Zahlungsanbieter"],
+            "Fill out the fields below to setup %(provider)s.": [
+                "F\u00fcllen Sie die Felder unten aus, um %(provider)s einzurichten."
+            ],
+            "Back": ["Zur\u00fcck"],
+            "Add provider": ["Anbieter hinzuf\u00fcgen"],
+            "Save settings": ["Einstellungen speichern"],
+
+            "API key": ["API-Schl\u00fcssel"],
+            "Enter your ActiveCampaign API key": ["Geben Sie Ihren ActiveCampaign-API-Schl\u00fcssel ein"],
+            "You find your API key in your account settings. {{a}}Learn more{{/a}}.": [
+                "Sie finden Ihren API-Schl\u00fcssel in Ihren Kontoeinstellungen. {{a}}Mehr erfahren{{/a}}."
+            ],
+            "Account name": ["Kontoname"],
+            "Enter your ActiveCampaign account name": ["Geben Sie Ihren ActiveCampaign-Kontonamen ein"],
+            "Mailchimp API key": ["Mailchimp API-Schl\u00fcssel"],
+            "Enter your Mailchimp API key": ["Geben Sie Ihren Mailchimp-API-Schl\u00fcssel ein"],
+            "Shortcode options": ["Shortcode-Optionen"],
+            "You can create API keys in your Mailchimp {{a}}account settings{{/a}}.": [
+                "Sie können Ihren API-Schl\u00fcssel in Ihren Mailchimp {{a}}Kontoeinstellungen{{/a}} erstellen."
+            ],
+            "Email signup options": ["E-Mail-Anmeldeoptionen"],
+            "Mail provider": ["Mail-Anbieter"],
+            "Add a mail provider": ["Einen Mail-Anbieter hinzuf\u00fcgen"],
+            "List": ["Liste"],
+            "subscribers": ["abonnenten"],
+            "subscriber": ["abonnent"],
+            "Tell people why they should subscribe to your newsletter.": [
+                "Teilen Sie mit, warum Besucher Ihren Newsletter abonnieren sollten."
+            ],
+            "Mail providers": ["Mail-Anbieter"],
+            "Pick your preferred mail provider": ["W\u00e4hlen Sie Ihren bevorzugten Mail-Anbieter"],
+            "Facebook options": ["Facebook-Optionen"],
+            "Embed video on bio link": ["Video auf Bio-Link einbetten"],
+            "Link off to Facebook": ["Link zu Facebook"],
+            "Mute": ["Stummschalten"],
+            "Mute this video by default.": ["Dieses Video standardm\u00e4\u00dfig stummschalten."],
+            "Autoplay": ["Autoplay"],
+            "Automatically play the video when the link is expanded.": [
+                "Spielen Sie das Video automatisch ab, wenn der Link erweitert wird."
+            ],
+            "Pinterest options": ["Pinterest-Optionen"],
+            "Embed Pinterest on bio link": ["Pinterest auf Bio-Link einbetten"],
+            "Link off to Pinterest": ["Link zu Pinterest"],
+            "Spotify options": ["Spotify-Optionen"],
+            "Embed Spotify on bio link": ["Spotify auf Bio-Link einbetten"],
+            "Link off to Spotify": ["Zu Spotify verlinken"],
+            "Spotlight options": ["Spotlight-Optionen"],
+            "Feed": ["Feed"],
+            "No feeds found. Please create a feed first.": [
+                "Keine Feeds gefunden. Bitte erstellen Sie zuerst einen Feed."
+            ],
+            "TikTok options": ["TikTok-Optionen"],
+            "Embed TikTok on bio link": ["TikTok auf Bio-Link einbetten"],
+            "Link off to TikTok": ["Zu TikTok verlinken"],
+            "WooCommerce options": ["WooCommerce-Optionen"],
+            "Products": ["Produkte"],
+            "Please install and activate the WooCommerce plugin to select products.": [
+                "Bitte installieren und aktivieren Sie das WooCommerce-Plugin, um Produkte auszuw\u00e4hlen."
+            ],
+            "%s products": ["%s Produkte"],
+            "%s categories": ["%s Kategorien"],
+            "Tell people about your shop and what you sell.": [
+                "Erz\u00e4hlen Sie den Leuten von den Produkten, die Sie verkaufen."
+            ],
+            "Add products": ["Produkte hinzuf\u00fcgen"],
+            "Edit products": ["Produkte bearbeiten"],
+            "Edit categories": ["Kategorien bearbeiten"],
+            "Select products": ["Produkte ausw\u00e4hlen"],
+            "Select categories": ["Kategorien ausw\u00e4hlen"],
+            "Select single products or choose a category to include all products in that category.": [
+                "W\u00e4hlen Sie einzelne Produkte aus oder w\u00e4hlen Sie eine Kategorie, um alle Produkte in dieser Kategorie aufzunehmen."
+            ],
+            "Search and choose products": ["Produkte suchen und ausw\u00e4hlen"],
+            "Search and choose categories": ["Kategorien suchen und ausw\u00e4hlen"],
+            "Select single products": ["Einzelne Produkte ausw\u00e4hlen"],
+            "Select by category": ["Nach Kategorie ausw\u00e4hlen"],
+            "Free": ["Kostenlos"],
+            "%s items": ["%s Artikel"],
+            "Update products": ["Produkte aktualisieren"],
+            "Update categories": ["Kategorien aktualisieren"],
+            "Add categories": ["Kategorien hinzuf\u00fcgen"],
+            "YouTube options": ["YouTube-Optionen"],
+            "Twitch options": ["Twitch-Optionen"],
+            "Link off to Twitch": ["Zu Twitch verlinken"],
+            "Embed on bio link": ["Auf Bio-Link einbetten"],
+            "Link off to YouTube": ["Zu YouTube verlinken"],
+            "Overview": ["\u00dcbersicht"],
+            "Users": ["Benutzer"],
+            "Analytics": ["Statistiken"],
+            "This link has been clicked %s times.": ["Dieser Link wurde %s mal angeklickt."],
+            "Upgrade to Social Pro to see the performance of this link, access meaningful analytics, and more.": [
+                "Upgraden Sie auf Pro, um die Leistung des Links zu sehen und auf Statistiken in Echtzeit zuzugreifen."
+            ],
+            "View activity": ["Aktivit\u00e4t ansehen"],
+            "Your biggest audience is in:": ["Ihr gr\u00f6\u00dftes Publikum ist in:"],
+            "Most viewed on:": ["Meist gesehen auf:"],
+            "Click activity": ["Klick-Aktivit\u00e4t"],
+            "Date range:": ["Datumsbereich:"],
+            "Last 7 days": ["Letzte 7 Tage"],
+            "Last 30 days": ["Letzte 30 Tage"],
+            "Last 60 days": ["Letzte 60 Tage"],
+            "Last 90 days": ["Letzte 90 Tage"],
+            "Last year": ["Letztes Jahr"],
+            "Blog": ["Blog"],
+            "Thumbnail": ["Vorschaubild"],
+            "Lifetime clicks": ["Lifetime-Klicks"],
+            "%s clicks": ["%s Klicks"],
+            "Please provide a valid Calendly link.": ["Bitte geben Sie einen g\u00fcltigen Calendly-Link an."],
+            "Calendly": ["Calendly"],
+            "Please set up a response type.": ["Bitte richten Sie eine Antwortart ein."],
+            "Contact form": ["Kontaktformular"],
+            "Please enter at least one contact detail.": ["Bitte geben Sie mindestens eine Kontaktinformation ein."],
+            "Contact info": ["Kontaktinformationen"],
+            "Please add a document.": ["Bitte f\u00fcgen Sie ein Dokument hinzu."],
+            "Please set up a payment provider.": ["Bitte richten Sie einen Zahlungsanbieter ein."],
+            "Donation": ["Spende"],
+            "Please set up a mail provider and select a mailing list.": [
+                "Bitte richten Sie einen Mail-Anbieter ein und w\u00e4hlen Sie eine Mailingliste aus."
+            ],
+            "Email signup": ["Mailingliste"],
+            "Please provide a valid Facebook video link.": [
+                "Bitte geben Sie einen g\u00fcltigen Facebook-Video-Link an."
+            ],
+            "Facebook": ["Facebook"],
+            "Please provide a valid link.": ["Bitte geben Sie einen g\u00fcltigen Link an."],
+            "Please provide a valid Pinterest link.": ["Bitte geben Sie einen g\u00fcltigen Pinterest-Link an."],
+            "Pinterest": ["Pinterest"],
+            "Please provide a valid Spotify link.": ["Bitte geben Sie einen g\u00fcltigen Spotify-Link an."],
+            "Spotify": ["Spotify"],
+            "Spotlight is not installed or activated.": ["Spotlight ist nicht installiert oder aktiviert."],
+            "Please select at feed to display.": ["Bitte w\u00e4hlen Sie zum Anzeigen einen Feed aus."],
+            "Spotlight": ["Spotlight"],
+            "Please provide a valid TikTok link.": ["Bitte geben Sie einen g\u00fcltigen TikTok-Link an."],
+            "TikTok": ["TikTok"],
+            "WooCommerce is not installed or activated.": ["WooCommerce ist nicht installiert oder aktiviert."],
+            "Please select at least one product.": ["Bitte w\u00e4hlen Sie mindestens ein Produkt aus."],
+            "WooCommerce": ["WooCommerce"],
+            "Please provide a valid YouTube video link.": [
+                "Bitte geben Sie einen g\u00fcltigen YouTube-Video-Link an."
+            ],
+            "YouTube": ["YouTube"],
+            "Embed a video from YouTube.": ["Betten Sie ein Video von YouTube ein."],
+            "Showcase your latest blog posts.": ["Pr\u00e4sentieren Sie Ihre neuesten Beitr\u00e4ge."],
+            "Header": ["Header"],
+            "Keep your content organized.": ["Organisieren Sie Ihre Links in Kategorieren."],
+            "Collect donations from your followers.": ["Sammeln Sie Spenden von Unterst\u00fctzern."],
+            "Share your contact information.": ["Teilen Sie Kontaktdetails mit Followern."],
+            "Let users sign up to your mailing list.": ["Erhalten Sie Abonnenten f\u00fcr Ihren Newsletter."],
+            "Let visitors get in touch with you.": ["Integrieren Sie ein anpassbares Kontaktformular."],
+            "Share a document with your followers.": ["Teilen Sie ein Dokument mit Followern."],
+            "Embed your Instagram feed.": ["Binden Sie Ihren Instagram-Feed ein."],
+            "Link to your favorite album or playlist.": ["Verlinken Sie Inhalte von Spotify."],
+            "Showcase pins, boards and more.": ["Teilen Sie Ihre Pins und Boards."],
+            "Share a TikTok video or profile.": ["Teilen Sie ein TikTok-Video oder Profil."],
+            "Embed a WooCommerce storefront.": ["Binden Sie einen WooCommerce-Store ein."],
+            "Schedule appointments via Calendly.": ["Planen Sie Termine \u00fcber Calendly."],
+            "Add new link": ["Neuer Link"],
+            "Explore": ["Entdecken"],
+            "Share your content": ["Teilen Sie Ihre Inhalte"],
+            "Share and embed your content on your bio link.": ["Teilen und binden Sie Inhalte in Ihren Bio-Link ein."],
+            "Add": ["Hinzuf\u00fcgen"],
+            "Connect with your followers": ["Vernetzen Sie sich mit Ihren Followern"],
+            "Everything you need to connect, manage and grow your audience.": [
+                "Alles, was Sie brauchen, um Ihr Netzwerk aufzubauen, zu verwalten und zu vergr\u00f6\u00dfern."
+            ],
+            "Monetize your bio link": ["Monetarisieren Sie Ihren Bio-Link"],
+            "Easily earn and collect money from your followers.": [
+                "Erhalten Sie finanzielle Unterst\u00fctzung von Ihren Followern."
+            ],
+            "Title": ["Titel"],
+            "No links yet": ["Noch keine Links"],
+            "Click the button above to add your first link.": [
+                "Klicken Sie auf den Button oben, um Ihren ersten Link hinzuzuf\u00fcgen."
+            ],
+            "Meet the Social Editor": ["Lernen Sie den Social-Editor kennen"],
+            "Here you can personalize the content and design of your bio link, and gain insights into its performance. Let's take a quick tour to get you started.": [
+                "Im Social-Editor können Sie neue Links und Inhalte zu Ihrem Bio-Link hinzuf\u00fcgen, bearbeiten und per Drag-and-Drop anordnen."
+            ],
+            "Make it yours": ["Mach Sie es zu Ihrem"],
+            "Easily add rich content to your bio link. Add basic links or embed videos, storefronts, forms, and more via the Explore button.": [
+                "F\u00fcgen Sie Ihrem Bio-Link ganz einfach umfangreiche Inhalte hinzu. F\u00fcgen Sie einfache Links hinzu oder binden Sie Videos, Shops, Formulare und mehr \u00fcber den Entdecken-Button ein."
+            ],
+            "See what's happening": ["Sehen, was passiert"],
+            "The preview enables you to view the updates made to your bio link page as you edit it, instantly.": [
+                "Mit der Vorschau können Sie die Aktualisierungen, die Sie an Ihrer Bio-Link-Seite vornehmen, sofort sehen, w\u00e4hrend Sie sie bearbeiten."
+            ],
+            "Share with ease": ["Mit Leichtigkeit teilen"],
+            "Effortlessly share your bio link page with your followers. Simply press the Share button and copy the link to your clipboard.": [
+                "Teilen Sie Ihre Bio-Link-Seite m\u00fchelos mit Ihren Followern. Dr\u00fccken Sie einfach auf den Teilen-Button und kopieren Sie den Link in Ihre Zwischenablage."
+            ],
+            "Know where to go": ["Wissen, wo es lang geht"],
+            "Use the navigation bar to access different pages of the Social Editor.": [
+                "Verwenden Sie die Navigationsleiste, um auf die verschiedenen Seiten des Social-Editors zuzugreifen."
+            ],
+            "Exit to the Home View": ["Zur Startansicht zur\u00fcckkehren"],
+            "Links": ["Links"],
+            "Add, edit and manage links": ["Links hinzuf\u00fcgen, bearbeiten und verwalten"],
+            "Settings": ["Einstellungen"],
+            "Edit the settings of your bio link": ["Einstellungen des Bio-Links bearbeiten"],
+            "View bio link performance insights": ["Statistiken des Bio-Links ansehen"],
+            "Got it": ["Verstanden"],
+            "Upgrade": ["Upgrade"],
+            "%s link": ["%s Link"],
+            "%s links": ["%s Links"],
+            "Updated %s": ["Aktualisiert %s"],
+            "Options": ["Optionen"],
+            "Rename": ["Umbenennen"],
+            "Copied link to clipboard.": ["Link wurde in die Zwischenablage kopiert."],
+            "Copy link": ["Link kopieren"],
+            "A single place for all your bio link pages": ["Ein einziger Ort f\u00fcr alle Ihre Bio-Link-Seiten"],
+            "Welcome to the Home View. Seamlessly create, edit, and delete your bio link pages, all at your fingertips.": [
+                "Willkommen in der Home-Ansicht. Erstellen, bearbeiten und l\u00f6schen Sie Ihre Bio-Link-Seiten nahtlos und mit nur wenigen Mausklicks."
+            ],
+            "Create bio link pages": ["Bio-Link-Seiten erstellen"],
+            "Choose from a curated selection of templates or begin from a blank canvas and effortlessly create new bio link pages.": [
+                "W\u00e4hlen Sie aus einer kuratierten Auswahl an Vorlagen oder beginnen Sie mit einem leeren Canvas und erstellen Sie m\u00fchelos neue Bio-Link-Seiten."
+            ],
+            "View recently edited pages": ["Zuletzt bearbeitete Seiten anzeigen"],
+            "View all your recently edited bio link pages in one place and make any necessary edits with just a single click.": [
+                "Sie können alle Ihre zuletzt bearbeiteten Bio-Link-Seiten an einem Ort sehen und alle notwendigen \u00c4nderungen mit nur einem Klick vornehmen."
+            ],
+            "Say Hello to the Template Library": ["Sagen Sie Hallo zur Vorlagenbibliothek"],
+            "The Template Library is the starting point for every new bio link page. Simply choose from a curated selection of templates or begin with a blank canvas.": [
+                "Die Vorlagenbibliothek ist der Ausgangspunkt f\u00fcr jede neue Bio-Link-Seite. W\u00e4hlen Sie einfach aus einer kuratierten Auswahl an Vorlagen oder beginnen Sie mit einem leeren Canvas."
+            ],
+            "Filter templates": ["Vorlagen filtern"],
+            "Easily sort templates by category to discover the ideal templates for your needs.": [
+                "Sortieren Sie die Vorlagen ganz einfach nach Kategorien, um die idealen Vorlagen f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+            ],
+            "Paid": ["Kostenpflichtig"],
+            "Updated %(date)s": ["Aktualisiert %(date)s"],
+            "Your name": ["Ihr Name"],
+            "Next": ["Weiter"],
+            "Main background": ["Hintergrund"],
+            "Header background": ["Header-Hintergrund"],
+            "Your bio description": ["Ihre Bio"],
+            "Use this template": ["Diese Vorlage verwenden"],
+            "Upgrade to use this template": ["Upgrade zur Verwendung dieser Vorlage"],
+            "Use %s": ["Benutze %s"],
+            "Start from scratch or keep the default content?": ["Neu anfangen oder den Standardinhalt beibehalten?"],
+            "Start from scratch": ["Ganz von vorne anfangen"],
+            "Theme colors, fonts, and background": ["Themenfarben, Schriftarten und Hintergrund"],
+            "Start with default content": ["Mit Standardinhalten beginnen"],
+            "Profile picture, title, bio, and %s links": ["Profilbild, Titel, Bio und %s Links"],
+            "Next step": ["N\u00e4chster Schritt"],
+            "Pick a profile image": ["W\u00e4hlen Sie ein Profilbild"],
+            "Have a favorite selfie? Upload it now.": ["Haben Sie ein Lieblings-Selfie? Lade Sie es hier hoch."],
+            "Skip for now": ["\u00dcberspringen"],
+            "Add profile details": ["Profildetails hinzuf\u00fcgen"],
+            "Tell people who your are and what you do.": ["Erz\u00e4hlen Sie, wer Sie sind und was Sie tun."],
+            "Enter a title": ["Titel eingeben"],
+            "Bio": ["Bio"],
+            "Tell something about yourself": ["Erz\u00e4hlen Sie etwas \u00fcber sich"],
+            "Create bio link": ["Bio-Link erstellen"],
+            "Choose a URL": ["W\u00e4hlen Sie eine URL"],
+            "Pick a URL for sharing your bio link.": ["W\u00e4hlen Sie eine URL zum Teilen Ihres Bio-Links."],
+            "URL": ["URL"],
+            "Homepage": ["Homepage"],
+            "Suggestions:": ["Vorschl\u00e4ge:"],
+            "Set as homepage": ["Als Homepage festlegen"],
+            "Select a style": ["W\u00e4hlen Sie einen Stil"],
+            "Pick a style or use AI to create one.": ["W\u00e4hlen Sie einen Stil oder generieren Sie mit KI."],
+            "Create your own with AI": ["Erschaffen Sie Ihren Eigenen mit KI"],
+            "Select a layout": ["W\u00e4hlen Sie ein Layout"],
+            "Pick a layout that fits your style.": ["Suchen Sie sich ein Layout aus, das zu Ihnen passt."],
+            "Classic": ["Klassisch"],
+            "Hero": ["Hero"],
+            "Pro": ["Pro"],
+            "Frame": ["Frame"],
+            "Your bio link is live": ["Ihr Bio-Link ist live"],
+            "Use this link to access your bio link:": ["Nutzen Sie den Link, um auf Ihren Bio-Link zuzugreifen:"],
+            "Click the button below to start customizing.": [
+                "Klicken Sie auf den Button unten, um mit dem Anpassen zu beginnen."
+            ],
+            "Continue to the editor": ["Weiter zum Editor"],
+            "Get started with a blank canvas or choose a pre-made template.": [
+                "Beginnen Sie mit einem leeren Canvas oder w\u00e4hlen Sie eine vorgefertigte Vorlage."
+            ],
+            "Blank": ["Leer"],
+            "Use template": ["Vorlage verwenden"],
+            "All templates": ["Alle Vorlagen"],
+            "Recently edited": ["K\u00fcrzlich bearbeitet"],
+            "Rename page": ["Seite umbenennen"],
+            "Update": ["Update"],
+            "Delete page": ["Seite l\u00f6schen"],
+            "This action cannot be undone.": ["Diese Aktion kann nicht r\u00fcckg\u00e4ngig gemacht werden."],
+            "Profile": ["Profil"],
+            "Footer": ["Footer"],
+            "SEO": ["SEO"],
+            "Layout": ["Layout"],
+            "Style": ["Stil"],
+            "Jump to:": ["Springe zu:"],
+            "Upload a profile image, add a title and a bio.": [
+                "Laden Sie ein Profilbild hoch, f\u00fcgen Sie einen Titel und eine Bio hinzu."
+            ],
+            "Avatar": ["Avatar"],
+            "Select image": ["Bild ausw\u00e4hlen"],
+            "Add your social channels to your bio link.": ["F\u00fcgen Sie Ihre Socials zu Ihrem Bio-Link hinzu."],
+            "Share your socials": ["Teilen Sie Ihre Socials"],
+            "Show visitors all the ways they can engage with you and your content.": [
+                "Zeigen Sie den Besuchern, auf welchen Plattformen sie Sie finden k\u00f6nnen."
+            ],
+            "Add icon": ["Icon hinzuf\u00fcgen"],
+            "Social icons": ["Social-Icons"],
+            "Add %(icon)s icon": ["%(icon)s-Icon hinzuf\u00fcgen"],
+            "Edit %(icon)s icon": ["%(icon)s-Icon bearbeiten"],
+            "Search and choose from social icons": ["Suchen und w\u00e4hlen Sie aus Social-Icons"],
+            "example": ["beispiel"],
+            "Edit icon": ["Icon bearbeiten"],
+            "Add additional links, such as legal text, to the footer.": [
+                "F\u00fcgen Sie zus\u00e4tzliche Links, wie Rechtstexte, in den Footer ein."
+            ],
+            "Add footer links": ["Footer-Link hinzuf\u00fcgen"],
+            "Need extra space for linking legal text or similar? Add them here.": [
+                "F\u00fcgen Sie Rechtstexte und weitere Links zum Footer hinzu."
+            ],
+            "Add link": ["Link hinzuf\u00fcgen"],
+            "Edit link": ["Link bearbeiten"],
+            "Please provide a title and a URL for the link.": [
+                "Bitte geben Sie einen Titel und eine URL f\u00fcr den Link an."
+            ],
+            "e.g. Privacy": ["z.B. Datenschutz"],
+            "example.com": ["beispiel.de"],
+            "Edit the URL of your bio link, adjust indexing by search engines, and more.": [
+                "\u00c4ndern Sie die URL des Bio-Links und passen Sie dessen Indexierung an."
+            ],
+            "Set this bio link as your website's homepage.": ["Setzen Sie diesen Bio-Link als Homepage Ihrer Website."],
+            "Custom meta": ["Benutzerdefinierte Metadaten"],
+            "Edit the meta tags of this bio link.": ["Bearbeite Sie die Meta-Tags dieses Bio-Links."],
+            "Prevent indexing": ["Indexierung verhindern"],
+            "Ask search engines not to index this bio link.": [
+                "Bitten Sie die Suchmaschinen, diesen Bio-Link nicht zu indexieren."
+            ],
+            "Edit meta": ["Meta bearbeiten"],
+            "Hide preview": ["Vorschau ausblenden"],
+            "Show preview": ["Vorschau anzeigen"],
+            "Edit the meta title, description, and image of this bio link.": [
+                "Bearbeiten Sie den Meta-Titel, die Beschreibung und das Bild f\u00fcr diesen Bio-Link."
+            ],
+            "Enter a meta title": ["Geben Sie einen Meta-Titel ein"],
+            "Enter a meta description": ["Geben Sie eine Meta-Beschreibung ein"],
+            "Image": ["Bild"],
+            "Recommended size for this image is:": ["Die empfohlene Gr\u00f6\u00dfe f\u00fcr dieses Bild ist:"],
+            "Adjust the layout of your bio link.": ["Passen Sie das Layout Ihres Bio-Links an."],
+            "Layout type": ["Typ"],
+            "Styles": ["Styles"],
+            "Edit colors, backgrounds, fonts, buttons, and more.": [
+                "Bearbeiten Sie Farben, Hintergr\u00fcnde, Schriftarten, Buttons und mehr."
+            ],
+            "Style type": ["Typ"],
+            "Custom": ["Benutzerdefiniert"],
+            "Or AI-create": ["Oder mit KI erstellen"],
+            "Backgrounds": ["Hintergr\u00fcnde"],
+            "Background type": ["Hintergrundtyp"],
+            "Solid": ["Einfarbig"],
+            "Gradient": ["Verlauf"],
+            "Background color": ["Hintergrundfarbe"],
+            "Color": ["Farbe"],
+            "Gradient direction": ["Richtung des Verlaufs"],
+            "To bottom": ["Nach unten"],
+            "To top": ["Nach oben"],
+            "Gradient color one": ["Farbverlauf erste Farbe"],
+            "Gradient color two": ["Farbverlauf zweite Farbe"],
+            "Background image": ["Hintergrundbild"],
+            "Upload custom background": ["Benutzerdefinierten Hintergrund hochladen"],
+            "Buttons": ["Buttons"],
+            "Outline": ["Rahmen"],
+            "3D": ["3D"],
+            "Shadow": ["Schatten"],
+            "Paper": ["Papier"],
+            "Button color": ["Buttonfarbe"],
+            "Font color": ["Schriftfarbe"],
+            "Shadow color": ["Schattenfarbe"],
+            "Fonts": ["Schriftarten"],
+            "Modern": ["Modern"],
+            "Aa": ["Aa"],
+            "Individual": ["Individuell"],
+            "Badge": ["Badge"],
+            "Hide the Social badge": ["Social-Badge ausblenden"],
+            "Let your brand shine by hiding the Social badge from your bio link.": [
+                "Lassen Sie Ihre Marke gl\u00e4nzen, indem Sie das Social-Badge ausblenden."
+            ],
+            "All": ["Alle"],
+            "Bio link templates for all purposes.": ["Bio-Link-Vorlagen f\u00fcr alle Zwecke."],
+            "Free templates": ["Kostenlose Vorlagen"],
+            "Free bio link templates.": ["Kostenlose Bio-Link-Vorlagen."],
+            "Fashion": ["Mode"],
+            "Bio link templates for fashion and beauty.": ["Bio-Link-Vorlagen f\u00fcr Mode und Beauty."],
+            "Marketing": ["Marketing"],
+            "Bio link templates for marketing and advertising.": ["Bio-Link-Vorlagen f\u00fcr Marketing und Werbung."],
+            "Influencers and Creators": ["Influencer und Creator"],
+            "Bio link templates for influencers and creators.": ["Bio-Link-Vorlagen f\u00fcr Influencer und Kreative."],
+            "Small Business": ["Kleines Unternehmen"],
+            "Bio link templates for small businesses.": ["Bio-Link-Vorlagen f\u00fcr kleine Unternehmen."],
+            "Sports": ["Sport"],
+            "Bio link templates for sports.": ["Bio-Link-Vorlagen f\u00fcr Sport."],
+            "Music": ["Musik"],
+            "Bio link templates for music.": ["Bio-Link-Vorlagen f\u00fcr Musik."],
+            "Health and Fitness": ["Gesundheit und Fitness"],
+            "Bio link templates for health and fitness.": ["Bio-Link-Vorlagen f\u00fcr Gesundheit und Fitness."],
+            "Social and Digital Media": ["Soziale und digitale Medien"],
+            "Bio link templates for social and digital media.": [
+                "Bio-Link-Vorlagen f\u00fcr soziale und digitale Medien."
+            ],
+            "Art and Photography": ["Kunst und Fotografie"],
+            "Bio link templates for art and photography.": ["Bio-Link-Vorlagen f\u00fcr Kunst und Fotografie."],
+            "Share": ["Teilen"],
+            "Share your bio link": ["Teilen Sie Ihren Bio-Link"],
+            "Grow your audience by sharing your links everywhere.": [
+                "Teilen Sie den Link auf Ihren Socials und vergr\u00f6\u00dferen Sie Ihre Reichweite."
+            ],
+            "Open in new tab": ["In neuem Tab \u00f6ffnen"],
+            "Copied": ["Kopiert"],
+            "Copy": ["Kopieren"],
+            "New bio link": ["Neuer Bio-Link"],
+            "Templates": ["Vorlagen"],
+            "Join Social %s to unlock this feature and many amazing others.": [
+                "Abonnieren Sie Social %s, um diese Funktion und viele Weitere freizuschalten."
+            ],
+            "Boost your brand recognition with custom designs": [
+                "Steigeren Sie Ihren Wiedererkennungswert mit individuellen Designs"
+            ],
+            "Add dynamic content to your bio link page by unlocking all Explore button links": [
+                "Schalten Sie alle Entdecken-Button-Links frei und f\u00fcgen Sie dynamische Inhalte zu Ihrem Bio-Link zu"
+            ],
+            "Add social icons and highlight links with animations": [
+                "F\u00fcgen Sie Social-Icons hinzu und heben Sie Links mit Animationen hervor"
+            ],
+            "Unlock exclusive paid templates, receive support, and more": [
+                "Schalten Sie exklusive Vorlagen frei, erhalten Sie Support und mehr"
+            ],
+            "Analyze the performance of your links and bio link page": [
+                "Analysieren Sie die Leistung Ihrer Links und Ihrer Bio-Link-Seite"
+            ],
+            "Schedule your links to show or hide at a specific time": [
+                "Planen Sie Links so, dass sie zu einer bestimmten Zeit ein- oder ausgeblendet werden"
+            ],
+            "Set your bio link page as your site's homepage": [
+                "Legen Sie Ihre Bio-Link-Seite als Homepage Ihrer Website fest"
+            ],
+            "Receive priority support, add custom meta tags, and more": [
+                "Erhalten Sie vorrangigen Support, f\u00fcgen Sie benutzerdefinierte Meta-Tags hinzu und vieles mehr"
+            ],
+            "Upgrade to %s": ["Upgrade auf %s"],
+            "Upgrade to unlock this feature": ["Upgrade, um diese Funktion freizuschalten"],
+            "Your current plan does not support this feature. Upgrade to unlock it.": [
+                "Ihr aktueller Plan unterst\u00fctzt diese Funktion nicht. Upgraden Sie, um sie freizuschalten."
+            ],
+            "Upgrade now": ["Jetzt upgraden"],
+            "Help": ["Hilfe"],
+            "Contact us": ["Kontakt"],
+            "Help center": ["Hilfe-Center"],
+            "Visit our homepage": ["Unsere Homepage"],
+            "We use Social": ["Wir verwenden Social"],
+            "No posts found.": ["Keine Beitr\u00e4ge gefunden."],
+            "Thank you for your message.": ["Vielen Dank f\u00fcr Ihre Nachricht."],
+            "Go back": ["Zur\u00fcckgehen"],
+            "Submit": ["Senden"],
+            "An unexpected error occurred. Please try again.": [
+                "Es ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es noch einmal."
+            ],
+            "Learn more": ["Mehr erfahren"],
+            "Save to contacts": ["In Kontakten speichern"],
+            "View": ["Ansehen"],
+            "Thank you for your donation.": ["Vielen Dank f\u00fcr Ihre Spende."],
+            "Continue": ["Weiter"],
+            "Please enter a valid amount to continue.": ["Bitte geben Sie g\u00fcltigen Betrag ein, um fortzufahren."],
+            "Thank you for subscribing.": ["Vielen Dank f\u00fcr das Abonnieren."],
+            "Subscribe": ["Abonnieren"],
+            "Open in Pinterest": ["In Pinterest \u00f6ffnen"],
+            "Open in Spotify": ["In Spotify \u00f6ffnen"],
+            "View on Instagram": ["Auf Instagram ansehen"],
+            "No feed found.": ["Kein Feed gefunden."],
+            "Open in TikTok": ["In TikTok \u00f6ffnen"],
+            "View shop": ["Shop ansehen"],
+            "No products found.": ["Keine Produkte gefunden."],
+            "Insert additional custom elements.": ["Weitere benutzerdefinierte Elemente einf\u00fcgen"],
+            "Mobile": ["Mobil"],
+            "Message": ["Nachricht"],
+            "Please add a discount code.": ["Bitte f\u00fcgen Sie einen Rabattcode hinzu."],
+            "Please add a button text.": ["Bitte f\u00fcgen Sie einen Button-Text hinzu."],
+            "Discount code": ["Rabattcode"],
+            "Add a discount code": ["Rabattcode hinzuf\u00fcgen"],
+            "Add a button text": ["Button-Text hinzuf\u00fcgen"],
+            "Add shortcode": ["Shortcode hinzuf\u00fcgen"],
+            "Discount code options": ["Rabattcode-Optionen"],
+            "Copy code": ["Code kopieren"],
+            "Button text": ["Button-Text"],
+            "Add a code": ["Code hinzuf\u00fcgen"],
+            "Go to store": ["Zum Shop"],
+            "Add a description for your discount code": ["Beschreibung f\u00fcr Ihren Rabattcode hinzuf\u00fcgen"],
+            "Copy the code and visit the store to claim your discount": [
+                "Kopieren Sie den Code und besuchen Sie den Shop, um Ihren Rabatt zu erhalten"
+            ],
+            "Display a discount code.": ["Binden Sie einen Rabattcode ein."],
+            "Please set up a valid shortcode.": ["Bitte richten Sie einen g\u00fcltigen Shortcode ein."],
+            "Edit shortcode": ["Shortcode bearbeiten"],
+            "Add Vimeo videos to your bio link.": ["F\u00fcgen Sie Vimeo-Videos zu Ihrem Bio-Link hinzu."],
+            "Please provide a valid Vimeo video link.": ["Bitte geben Sie einen g\u00fcltigen Vimeo-Video-Link an."],
+            "Link off to Vimeo": ["Zu Vimeo verlinken"],
+            "Minimize editor": ["Editor minimieren"],
+            "Maximize editor": ["Editor maximieren"],
+            "Pick a style that fits your bio link.": ["W\u00e4hlen Sie einen Stil, der zu Ihrem Bio-Link passt."],
+            "Preview": ["Vorschau"],
+            "Text options": ["Text-Optionen"],
+            "Text": ["Text"],
+            "Button URL": ["Button-URL"],
+            "Button title": ["Button-Titel"],
+            "Add a button that links to a destination URL.": [
+                "F\u00fcgen Sie einen Button hinzu, der zu einer Ziel-URL verlinkt."
+            ],
+            "Share text with your visitors.": ["Teilen Sie Text mit Ihren Besuchern."],
+            "Add a text element to your bio link.": ["F\u00fcgen Sie ein Text-Element zu Ihrem Bio-Link hinzu."],
+            "Add a button to your text element.": ["F\u00fcgen Sie einen Button zu Ihrem Text-Element hinzu."],
+            "Add a button URL": ["Button-URL hinzuf\u00fcgen"],
+            "Please provide a valid button link.": ["Bitte geben Sie einen g\u00fcltigen Button-Link an."],
+            "Please enter some text.": ["Bitte geben Sie einen Text ein."]
+        }
+    }
+}

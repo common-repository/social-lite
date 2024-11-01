@@ -1,0 +1,50 @@
+{
+    "translation-revision-date": "2023-11-23T07:53:35+00:00",
+    "generator": "WP-CLI/2.6.0",
+    "source": "frontend.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "de",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Email address": ["E-Mail"],
+            "Name": ["Name"],
+            "Email": ["E-Mail"],
+            "Phone": ["Telefon"],
+            "Copy code": ["Code kopieren"],
+            "Copied": ["Kopiert"],
+            "Free": ["Kostenlos"],
+            "Custom": ["Benutzerdefiniert"],
+            "We use Social": ["Wir verwenden Social"],
+            "No posts found.": ["Keine Beitr\u00e4ge gefunden."],
+            "Thank you for your message.": ["Vielen Dank f\u00fcr Ihre Nachricht."],
+            "Go back": ["Zur\u00fcckgehen"],
+            "Submit": ["Senden"],
+            "An unexpected error occurred. Please try again.": [
+                "Es ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es noch einmal."
+            ],
+            "Learn more": ["Mehr erfahren"],
+            "Save to contacts": ["In Kontakten speichern"],
+            "View": ["Ansehen"],
+            "Thank you for your donation.": ["Vielen Dank f\u00fcr Ihre Spende."],
+            "Continue": ["Weiter"],
+            "Please enter a valid amount to continue.": [
+                "Bitte geben Sie einen g\u00fcltigen Betrag ein, um fortzufahren."
+            ],
+            "Thank you for subscribing.": ["Vielen Dank f\u00fcr das Abonnieren."],
+            "Subscribe": ["Abonnieren"],
+            "Open in Pinterest": ["In Pinterest \u00f6ffnen"],
+            "Open in Spotify": ["In Spotify \u00f6ffnen"],
+            "View on Instagram": ["Auf Instagram ansehen"],
+            "No feed found.": ["Kein Feed gefunden."],
+            "Open in TikTok": ["In TikTok \u00f6ffnen"],
+            "View shop": ["Shop ansehen"],
+            "No products found.": ["Keine Produkte gefunden."],
+            "Mobile": ["Mobil"],
+            "Message": ["Nachricht"]
+        }
+    }
+}

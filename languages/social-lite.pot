@@ -1,0 +1,59 @@
+# Copyright (C) 2024 Chadwick Marketing
+# This file is distributed under the same license as the Social plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social 1.6.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/src\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: n/a\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+
+#. Plugin Name of the plugin
+msgid "Social"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://socialwp.io"
+msgstr ""
+
+#. Description of the plugin
+msgid "Turn your site into a launchpad for your links, products, and more. Build a place your fans will love, with Social."
+msgstr ""
+
+#. Author of the plugin
+msgid "Chadwick Marketing"
+msgstr ""
+
+#: inc/base/analytics/BioLinkAnalytics.php:815
+msgid "Berlin's best coffee shops"
+msgstr ""
+
+#: inc/base/analytics/BioLinkAnalytics.php:819
+msgid "Recipe: Yummy cookies"
+msgstr ""
+
+#: inc/base/analytics/BioLinkAnalytics.php:823
+msgid "Read my latest book"
+msgstr ""
+
+#: inc/base/CPT.php:22
+msgid "Bio Links"
+msgstr ""
+
+#: inc/base/notifications/BioLinkNotifications.php:54
+msgid "New form submission"
+msgstr ""
+
+#: inc/view/bio/BioLinkMeta.php:20
+msgid "Data"
+msgstr ""
+
+#: inc/view/bio/BioLinkMeta.php:30
+msgid "Analytics"
+msgstr ""
